@@ -1,9 +1,12 @@
 const LANGUAGE = document.body.dataset.language;
 const HEADER_IMAGE = 'assets/images/bg01.jpg';
+const SIDEBAR_STATE_KEY = 'bhagavad-gita-sidebar-collapsed';
 
 async function initReader() {
   const ui = UI_COPY[LANGUAGE] || UI_COPY.en;
+  const pageShellEl = document.querySelector('.page-shell');
   const sidebarEl = document.getElementById('sidebar');
+  const sidebarToggleEl = document.getElementById('sidebarToggle');
   const chapterTitleEl = document.getElementById('chapterTitle');
   const chapterSummaryEl = document.getElementById('chapterSummary');
   const chapterMetaEl = document.getElementById('chapterMeta');
@@ -28,17 +31,50 @@ async function initReader() {
   const wordMeaningLabelEl = document.getElementById('wordMeaningLabel');
   const jumpEyebrowEl = document.getElementById('jumpEyebrow');
   const jumpHeadingEl = document.getElementById('jumpHeading');
+  const edgePrevEl = document.getElementById('edgePrev');
+  const edgeNextEl = document.getElementById('edgeNext');
 
   const chapterCache = new Map();
   let manifest;
   let currentChapter;
   let ambienceOn = false;
+  let sidebarCollapsed = window.innerWidth <= 1080;
 
   audioEyebrowEl.textContent = ui.audioEyebrow;
   meaningHeadingEl.textContent = ui.meaningHeading;
   wordMeaningLabelEl.textContent = ui.wordMeaningLabel;
   jumpEyebrowEl.textContent = ui.jumpEyebrow;
   jumpHeadingEl.textContent = ui.jumpHeading;
+  if (sidebarToggleEl) {
+    sidebarToggleEl.textContent = ui.sidebarHide;
+  }
+
+  try {
+    const storedSidebarState = window.localStorage.getItem(SIDEBAR_STATE_KEY);
+    if (storedSidebarState !== null) {
+      sidebarCollapsed = storedSidebarState === 'true';
+    }
+  } catch (error) {
+    // Ignore storage errors and keep the responsive default.
+  }
+
+  function syncSidebarState() {
+    pageShellEl.classList.toggle('sidebar-collapsed', sidebarCollapsed);
+    if (sidebarToggleEl) {
+      sidebarToggleEl.textContent = sidebarCollapsed ? ui.sidebarShow : ui.sidebarHide;
+      sidebarToggleEl.setAttribute('aria-expanded', String(!sidebarCollapsed));
+    }
+
+    try {
+      window.localStorage.setItem(SIDEBAR_STATE_KEY, String(sidebarCollapsed));
+    } catch (error) {
+      // Ignore storage errors.
+    }
+  }
+
+  function targetIsInsideEdgePager(target) {
+    return target instanceof Element && Boolean(target.closest('.edge-pager'));
+  }
 
   function parseHash() {
     const cleaned = window.location.hash.replace(/^#\/?/, '');
@@ -80,6 +116,11 @@ async function initReader() {
 
   function renderSidebar(activeChapter) {
     sidebarEl.innerHTML = `
+      <div class="sidebar-portrait">
+        <div class="sidebar-portrait-ring">
+          <img src="${HEADER_IMAGE}" alt="${ui.sidebarImageAlt}" />
+        </div>
+      </div>
       <h2 class="sidebar-title">${ui.sidebarTitle}</h2>
       <p class="sidebar-subtitle">${ui.sidebarSubtitle}</p>
       <div class="chapter-list">
@@ -133,25 +174,31 @@ async function initReader() {
 
   function renderNav(chapterData, verse) {
     const chapterIndex = manifest.chapters.findIndex((item) => item.chapterNumber === chapterData.chapterNumber);
-    const prevChapter = manifest.chapters[chapterIndex - 1];
-    const nextChapter = manifest.chapters[chapterIndex + 1];
+    const prevChapter = manifest.chapters[chapterIndex - 1] || manifest.chapters[manifest.chapters.length - 1];
+    const nextChapter = manifest.chapters[chapterIndex + 1] || manifest.chapters[0];
     const currentIndex = chapterData.verses.findIndex((item) => item.verseNumber === verse.verseNumber);
     const prevVerse = chapterData.verses[currentIndex - 1];
     const nextVerse = chapterData.verses[currentIndex + 1];
+    const prevVerseLink = prevVerse
+      ? { chapterNumber: chapterData.chapterNumber, verseNumber: prevVerse.verseNumber }
+      : { chapterNumber: prevChapter.chapterNumber, verseNumber: prevChapter.verseCount };
+    const nextVerseLink = nextVerse
+      ? { chapterNumber: chapterData.chapterNumber, verseNumber: nextVerse.verseNumber }
+      : { chapterNumber: nextChapter.chapterNumber, verseNumber: 1 };
 
     verseNavEl.innerHTML = `
-      ${prevVerse ? buildRailLink(chapterData.chapterNumber, prevVerse.verseNumber, ui.prevVerse) : ''}
+      ${buildRailLink(prevVerseLink.chapterNumber, prevVerseLink.verseNumber, ui.prevVerse)}
       <span class="chapter-chip">${ui.verseLabel} ${verse.verseNumber} / ${chapterData.verses.length}</span>
-      ${nextVerse ? buildRailLink(chapterData.chapterNumber, nextVerse.verseNumber, ui.nextVerse) : ''}
+      ${buildRailLink(nextVerseLink.chapterNumber, nextVerseLink.verseNumber, ui.nextVerse)}
     `;
 
     chapterNavEl.innerHTML = `
-      ${prevChapter ? buildRailLink(prevChapter.chapterNumber, 1, ui.prevChapter) : ''}
-      ${nextChapter ? buildRailLink(nextChapter.chapterNumber, 1, ui.nextChapter) : ''}
+      ${buildRailLink(prevChapter.chapterNumber, 1, ui.prevChapter)}
+      ${buildRailLink(nextChapter.chapterNumber, 1, ui.nextChapter)}
     `;
 
-    prevVerseBtn.disabled = !prevVerse && !prevChapter;
-    nextVerseBtn.disabled = !nextVerse && !nextChapter;
+    prevVerseBtn.disabled = false;
+    nextVerseBtn.disabled = false;
     prevVerseBtn.onclick = () => navigateRelative(-1);
     nextVerseBtn.onclick = () => navigateRelative(1);
   }
@@ -237,11 +284,11 @@ async function initReader() {
       return;
     }
 
-    const nextChapterEntry = manifest.chapters[chapterIndex + direction];
-    if (!nextChapterEntry) return;
+    const nextChapterEntry =
+      manifest.chapters[chapterIndex + direction] ||
+      (direction > 0 ? manifest.chapters[0] : manifest.chapters[manifest.chapters.length - 1]);
 
-    const targetVerse =
-      direction > 0 ? 1 : nextChapterEntry.verseCount;
+    const targetVerse = direction > 0 ? 1 : nextChapterEntry.verseCount;
 
     setHash(nextChapterEntry.chapterNumber, targetVerse);
   }
@@ -267,6 +314,7 @@ async function initReader() {
   window.addEventListener(
     'touchstart',
     (event) => {
+      if (targetIsInsideEdgePager(event.target)) return;
       const touch = event.changedTouches[0];
       touchStartX = touch.clientX;
       touchStartY = touch.clientY;
@@ -278,6 +326,7 @@ async function initReader() {
     'touchend',
     (event) => {
       if (!currentChapter) return;
+      if (targetIsInsideEdgePager(event.target)) return;
 
       const touch = event.changedTouches[0];
       const deltaX = touch.clientX - touchStartX;
@@ -291,8 +340,17 @@ async function initReader() {
     { passive: true }
   );
 
+  sidebarToggleEl?.addEventListener('click', () => {
+    sidebarCollapsed = !sidebarCollapsed;
+    syncSidebarState();
+  });
+
+  edgePrevEl?.addEventListener('click', () => navigateRelative(-1));
+  edgeNextEl?.addEventListener('click', () => navigateRelative(1));
+
   await loadManifest();
   ambienceToggleEl.textContent = ui.ambienceOff;
+  syncSidebarState();
   window.addEventListener('hashchange', renderRoute);
   await renderRoute();
 }
@@ -317,6 +375,9 @@ const UI_COPY = {
     jumpCountSuffix: 'verses in this chapter',
     ambienceOn: 'Ambience On',
     ambienceOff: 'Ambience Off',
+    sidebarShow: 'Show Chapters',
+    sidebarHide: 'Hide Chapters',
+    sidebarImageAlt: 'Lord Krishna and Arjuna in the chapter navigation pane',
   },
   te: {
     sidebarTitle: 'భగవద్గీత',
@@ -337,6 +398,9 @@ const UI_COPY = {
     jumpCountSuffix: 'శ్లోకాలు ఈ అధ్యాయంలో ఉన్నాయి',
     ambienceOn: 'నేపథ్య ధ్వని ఆన్',
     ambienceOff: 'నేపథ్య ధ్వని ఆఫ్',
+    sidebarShow: 'అధ్యాయాలు చూపు',
+    sidebarHide: 'అధ్యాయాలు దాచు',
+    sidebarImageAlt: 'అధ్యాయ నావిగేషన్‌లో శ్రీకృష్ణుడు అర్జునుడు చిత్రం',
   },
 };
 
