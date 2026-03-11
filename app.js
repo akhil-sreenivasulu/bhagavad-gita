@@ -149,10 +149,10 @@ async function initReader() {
       ${nextChapter ? buildRailLink(nextChapter.chapterNumber, 1, ui.nextChapter) : ''}
     `;
 
-    prevVerseBtn.disabled = !prevVerse;
-    nextVerseBtn.disabled = !nextVerse;
-    prevVerseBtn.onclick = () => prevVerse && setHash(chapterData.chapterNumber, prevVerse.verseNumber);
-    nextVerseBtn.onclick = () => nextVerse && setHash(chapterData.chapterNumber, nextVerse.verseNumber);
+    prevVerseBtn.disabled = !prevVerse && !prevChapter;
+    nextVerseBtn.disabled = !nextVerse && !nextChapter;
+    prevVerseBtn.onclick = () => navigateRelative(-1);
+    nextVerseBtn.onclick = () => navigateRelative(1);
   }
 
   function renderVerse(chapterData, verse) {
@@ -220,19 +220,43 @@ async function initReader() {
     syncAudio(chapterData);
   }
 
+  function navigateRelative(direction) {
+    if (!currentChapter) return;
+
+    const route = parseHash();
+    const chapterIndex = manifest.chapters.findIndex(
+      (item) => item.chapterNumber === currentChapter.chapterNumber
+    );
+    const currentIndex = currentChapter.verses.findIndex((item) => item.verseNumber === route.verse);
+    if (currentIndex === -1 || chapterIndex === -1) return;
+
+    const targetInChapter = currentChapter.verses[currentIndex + direction];
+    if (targetInChapter) {
+      setHash(currentChapter.chapterNumber, targetInChapter.verseNumber);
+      return;
+    }
+
+    const nextChapterEntry = manifest.chapters[chapterIndex + direction];
+    if (!nextChapterEntry) return;
+
+    const targetVerse =
+      direction > 0 ? 1 : nextChapterEntry.verseCount;
+
+    setHash(nextChapterEntry.chapterNumber, targetVerse);
+  }
+
   window.addEventListener('keydown', (event) => {
     if (!currentChapter) return;
     if (['INPUT', 'TEXTAREA', 'SELECT', 'BUTTON'].includes(document.activeElement?.tagName)) return;
-    const { verse } = parseHash();
-    const currentIndex = currentChapter.verses.findIndex((item) => item.verseNumber === verse);
-    if (currentIndex === -1) return;
 
-    if (event.key === 'ArrowRight' && currentChapter.verses[currentIndex + 1]) {
-      setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex + 1].verseNumber);
+    if (event.key === 'ArrowRight') {
+      event.preventDefault();
+      navigateRelative(1);
     }
 
-    if (event.key === 'ArrowLeft' && currentChapter.verses[currentIndex - 1]) {
-      setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex - 1].verseNumber);
+    if (event.key === 'ArrowLeft') {
+      event.preventDefault();
+      navigateRelative(-1);
     }
   });
 
@@ -260,17 +284,8 @@ async function initReader() {
 
       if (Math.abs(deltaX) < 60 || Math.abs(deltaY) > 50) return;
 
-      const route = parseHash();
-      const currentIndex = currentChapter.verses.findIndex((item) => item.verseNumber === route.verse);
-      if (currentIndex === -1) return;
-
-      if (deltaX < 0 && currentChapter.verses[currentIndex + 1]) {
-        setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex + 1].verseNumber);
-      }
-
-      if (deltaX > 0 && currentChapter.verses[currentIndex - 1]) {
-        setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex - 1].verseNumber);
-      }
+      if (deltaX < 0) navigateRelative(1);
+      if (deltaX > 0) navigateRelative(-1);
     },
     { passive: true }
   );
