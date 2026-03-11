@@ -1,4 +1,5 @@
 const LANGUAGE = document.body.dataset.language;
+const HEADER_IMAGE = 'assets/images/bg01.jpg';
 
 async function initReader() {
   const ui = UI_COPY[LANGUAGE] || UI_COPY.en;
@@ -120,7 +121,7 @@ async function initReader() {
 
     chapterTitleEl.textContent = meta.title;
     chapterSummaryEl.textContent = meta.summary;
-    chapterImageEl.src = chapterData.image;
+    chapterImageEl.src = HEADER_IMAGE;
     chapterMetaEl.innerHTML = `
       <span>${ui.chapterLabel} ${chapterData.chapterNumber}</span>
       <span>${chapterData.verses.length} ${ui.verseCountLabel}</span>
