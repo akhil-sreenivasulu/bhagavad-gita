@@ -19,6 +19,11 @@
           <a class="secondary-link" href="english.html">English</a>
         </section>
 
+        <section class="control-bar">
+          <div class="verse-rail" id="verseNav"></div>
+          <div class="chapter-rail" id="chapterNav"></div>
+        </section>
+
         <article class="shloka-card">
           <div class="verse-header">
             <p class="eyebrow" id="verseLocation">శ్లోకం</p>
@@ -40,26 +45,6 @@
           </details>
         </article>
 
-        <section class="hero">
-          <div class="hero-copy">
-            <p class="eyebrow">శ్రీమద్భగవద్గీత</p>
-            <h1 id="chapterTitle">లోడవుతోంది...</h1>
-            <div class="chapter-meta" id="chapterMeta"></div>
-          </div>
-          <div class="hero-art hero-art-circle">
-            <img
-              id="chapterImage"
-              src="assets/images/bg01.jpg"
-              alt="శ్రీకృష్ణుడు అర్జునుడు రథంపై ఉన్న చిత్రం"
-            />
-          </div>
-        </section>
-
-        <section class="control-bar">
-          <div class="verse-rail" id="verseNav"></div>
-          <div class="chapter-rail" id="chapterNav"></div>
-        </section>
-
         <section class="player-card">
           <div class="section-head">
             <div>
@@ -74,6 +59,25 @@
           <audio id="ambienceAudio" preload="metadata" loop src="assets/bg-full.mp3"></audio>
         </section>
 
+        <section class="dropdown-nav-card">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow" id="dropdownEyebrow">త్వరిత నావిగేషన్</p>
+              <h2 id="dropdownHeading">అధ్యాయం మరియు శ్లోకం ఎంచుకోండి</h2>
+            </div>
+          </div>
+          <div class="dropdown-nav">
+            <label class="dropdown-field">
+              <span id="chapterSelectLabel">అధ్యాయం</span>
+              <select id="chapterSelect"></select>
+            </label>
+            <label class="dropdown-field">
+              <span id="verseSelectLabel">శ్లోకం</span>
+              <select id="verseSelect"></select>
+            </label>
+          </div>
+        </section>
+
         <section class="jump-grid-wrap">
           <div class="section-head">
             <div>
@@ -86,6 +90,20 @@
         </section>
 
         <section class="chapter-summary-card">
+          <div class="chapter-summary-head">
+            <div>
+              <p class="eyebrow">శ్రీమద్భగవద్గీత</p>
+              <h2 id="chapterTitle">లోడవుతోంది...</h2>
+              <div class="chapter-meta" id="chapterMeta"></div>
+            </div>
+            <div class="hero-art hero-art-circle chapter-summary-art">
+              <img
+                id="chapterImage"
+                src="assets/images/bg01.jpg"
+                alt="శ్రీకృష్ణుడు అర్జునుడు రథంపై ఉన్న చిత్రం"
+              />
+            </div>
+          </div>
           <p class="eyebrow">అధ్యాయ వివరణ</p>
           <p class="chapter-summary" id="chapterSummary"></p>
         </section>

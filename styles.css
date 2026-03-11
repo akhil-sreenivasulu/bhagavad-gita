@@ -55,9 +55,9 @@ button {
 
 .landing-hero,
 .landing-card,
-.hero,
 .control-bar,
 .player-card,
+.dropdown-nav-card,
 .shloka-card,
 .jump-grid-wrap,
 .chapter-summary-card,
@@ -69,22 +69,26 @@ button {
 }
 
 .landing-hero,
-.hero {
+.chapter-summary-head {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
   gap: 1.2rem;
   border-radius: 32px;
+}
+
+.landing-hero {
   overflow: hidden;
   padding: 1.3rem;
 }
 
 .landing-copy,
-.hero-copy {
+.hero-copy,
+.chapter-summary-head > div:first-child {
   align-self: center;
 }
 
 .landing-hero h1,
-.hero h1 {
+.chapter-summary-card h2 {
   margin: 0;
   line-height: 1.08;
   font-size: clamp(2.1rem, 4vw, 4rem);
@@ -200,6 +204,7 @@ button {
 .landing-card,
 .control-bar,
 .player-card,
+.dropdown-nav-card,
 .shloka-card,
 .jump-grid-wrap,
 .chapter-summary-card {
@@ -346,6 +351,15 @@ button {
   margin-top: 0.8rem;
 }
 
+.chapter-summary-head {
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.chapter-summary-art {
+  min-height: 0;
+}
+
 .chapter-summary-card .chapter-summary {
   margin-top: 0.2rem;
 }
@@ -384,6 +398,32 @@ button {
   color: var(--accent);
 }
 
+.dropdown-nav {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin-top: 0.75rem;
+}
+
+.dropdown-field {
+  display: grid;
+  gap: 0.4rem;
+  color: var(--muted);
+}
+
+.dropdown-field select {
+  width: 100%;
+  padding: 0.8rem 0.9rem;
+  border-radius: 18px;
+  border: 1px solid rgba(239, 179, 71, 0.24);
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text);
+}
+
+.dropdown-field option {
+  color: #15110a;
+}
+
 .jump-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(54px, 1fr));
@@ -420,7 +460,8 @@ button {
 
 @media (max-width: 820px) {
   .landing-hero,
-  .hero,
+  .chapter-summary-head,
+  .dropdown-nav,
   .summary-grid {
     grid-template-columns: 1fr;
   }

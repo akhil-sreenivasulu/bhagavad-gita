@@ -31,6 +31,12 @@ async function initReader() {
   const wordMeaningLabelEl = document.getElementById('wordMeaningLabel');
   const jumpEyebrowEl = document.getElementById('jumpEyebrow');
   const jumpHeadingEl = document.getElementById('jumpHeading');
+  const dropdownEyebrowEl = document.getElementById('dropdownEyebrow');
+  const dropdownHeadingEl = document.getElementById('dropdownHeading');
+  const chapterSelectLabelEl = document.getElementById('chapterSelectLabel');
+  const verseSelectLabelEl = document.getElementById('verseSelectLabel');
+  const chapterSelectEl = document.getElementById('chapterSelect');
+  const verseSelectEl = document.getElementById('verseSelect');
   const edgePrevEl = document.getElementById('edgePrev');
   const edgeNextEl = document.getElementById('edgeNext');
 
@@ -45,6 +51,10 @@ async function initReader() {
   wordMeaningLabelEl.textContent = ui.wordMeaningLabel;
   jumpEyebrowEl.textContent = ui.jumpEyebrow;
   jumpHeadingEl.textContent = ui.jumpHeading;
+  dropdownEyebrowEl.textContent = ui.dropdownEyebrow;
+  dropdownHeadingEl.textContent = ui.dropdownHeading;
+  chapterSelectLabelEl.textContent = ui.chapterLabel;
+  verseSelectLabelEl.textContent = ui.verseLabel;
   if (sidebarToggleEl) {
     sidebarToggleEl.textContent = ui.sidebarHide;
   }
@@ -172,6 +182,35 @@ async function initReader() {
     audioTitleEl.textContent = `${ui.chapterLabel} ${chapterData.chapterNumber} ${ui.audioTitleSuffix}`;
   }
 
+  function renderDropdownNav(chapterData, verse) {
+    chapterSelectEl.innerHTML = manifest.chapters
+      .map((chapter) => {
+        const meta = chapterMetaFor({
+          chapterNumber: chapter.chapterNumber,
+          nameTranslation: chapter.nameTranslation,
+          nameMeaning: chapter.nameMeaning,
+          summary: '',
+        });
+
+        return `
+          <option value="${chapter.chapterNumber}" ${chapter.chapterNumber === chapterData.chapterNumber ? 'selected' : ''}>
+            ${ui.chapterLabel} ${chapter.chapterNumber} - ${meta.title}
+          </option>
+        `;
+      })
+      .join('');
+
+    verseSelectEl.innerHTML = chapterData.verses
+      .map(
+        (item) => `
+          <option value="${item.verseNumber}" ${item.verseNumber === verse.verseNumber ? 'selected' : ''}>
+            ${ui.verseLabel} ${item.verseNumber}
+          </option>
+        `
+      )
+      .join('');
+  }
+
   function renderNav(chapterData, verse) {
     const chapterIndex = manifest.chapters.findIndex((item) => item.chapterNumber === chapterData.chapterNumber);
     const prevChapter = manifest.chapters[chapterIndex - 1] || manifest.chapters[manifest.chapters.length - 1];
@@ -264,6 +303,7 @@ async function initReader() {
     renderSidebar(chapterData.chapterNumber);
     renderHeader(chapterData, verse);
     renderNav(chapterData, verse);
+    renderDropdownNav(chapterData, verse);
     renderVerse(chapterData, verse);
     syncAudio(chapterData);
   }
@@ -345,6 +385,21 @@ async function initReader() {
     syncSidebarState();
   });
 
+  chapterSelectEl?.addEventListener('change', async () => {
+    const targetChapter = Number(chapterSelectEl.value);
+    const chapterEntry = manifest.chapters.find((item) => item.chapterNumber === targetChapter);
+    if (!chapterEntry) return;
+    const chapterData = await loadChapter(chapterEntry.path);
+    setHash(targetChapter, chapterData.verses[0].verseNumber);
+  });
+
+  verseSelectEl?.addEventListener('change', () => {
+    const targetChapter = Number(chapterSelectEl.value);
+    const targetVerse = Number(verseSelectEl.value);
+    if (!targetChapter || !targetVerse) return;
+    setHash(targetChapter, targetVerse);
+  });
+
   edgePrevEl?.addEventListener('click', () => navigateRelative(-1));
   edgeNextEl?.addEventListener('click', () => navigateRelative(1));
 
@@ -373,6 +428,8 @@ const UI_COPY = {
     jumpEyebrow: 'Jump To Any Shloka',
     jumpHeading: 'Verse Navigator',
     jumpCountSuffix: 'verses in this chapter',
+    dropdownEyebrow: 'Quick Navigation',
+    dropdownHeading: 'Choose Chapter and Verse',
     ambienceOn: 'Ambience On',
     ambienceOff: 'Ambience Off',
     sidebarShow: 'Show Chapters',
@@ -396,6 +453,8 @@ const UI_COPY = {
     jumpEyebrow: 'ఏ శ్లోకానికైనా వెళ్లండి',
     jumpHeading: 'శ్లోక సూచిక',
     jumpCountSuffix: 'శ్లోకాలు ఈ అధ్యాయంలో ఉన్నాయి',
+    dropdownEyebrow: 'త్వరిత నావిగేషన్',
+    dropdownHeading: 'అధ్యాయం మరియు శ్లోకం ఎంచుకోండి',
     ambienceOn: 'నేపథ్య ధ్వని ఆన్',
     ambienceOff: 'నేపథ్య ధ్వని ఆఫ్',
     sidebarShow: 'అధ్యాయాలు చూపు',

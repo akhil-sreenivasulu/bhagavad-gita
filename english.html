@@ -19,6 +19,11 @@
           <a class="secondary-link" href="telugu.html">తెలుగు</a>
         </section>
 
+        <section class="control-bar">
+          <div class="verse-rail" id="verseNav"></div>
+          <div class="chapter-rail" id="chapterNav"></div>
+        </section>
+
         <article class="shloka-card">
           <div class="verse-header">
             <p class="eyebrow" id="verseLocation">Verse</p>
@@ -40,26 +45,6 @@
           </details>
         </article>
 
-        <section class="hero">
-          <div class="hero-copy">
-            <p class="eyebrow">Srimad Bhagavad Gita</p>
-            <h1 id="chapterTitle">Loading...</h1>
-            <div class="chapter-meta" id="chapterMeta"></div>
-          </div>
-          <div class="hero-art hero-art-circle">
-            <img
-              id="chapterImage"
-              src="assets/images/bg01.jpg"
-              alt="Lord Krishna and Arjuna on the chariot"
-            />
-          </div>
-        </section>
-
-        <section class="control-bar">
-          <div class="verse-rail" id="verseNav"></div>
-          <div class="chapter-rail" id="chapterNav"></div>
-        </section>
-
         <section class="player-card">
           <div class="section-head">
             <div>
@@ -74,6 +59,25 @@
           <audio id="ambienceAudio" preload="metadata" loop src="assets/bg-full.mp3"></audio>
         </section>
 
+        <section class="dropdown-nav-card">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow" id="dropdownEyebrow">Quick Navigation</p>
+              <h2 id="dropdownHeading">Choose Chapter and Verse</h2>
+            </div>
+          </div>
+          <div class="dropdown-nav">
+            <label class="dropdown-field">
+              <span id="chapterSelectLabel">Chapter</span>
+              <select id="chapterSelect"></select>
+            </label>
+            <label class="dropdown-field">
+              <span id="verseSelectLabel">Verse</span>
+              <select id="verseSelect"></select>
+            </label>
+          </div>
+        </section>
+
         <section class="jump-grid-wrap">
           <div class="section-head">
             <div>
@@ -86,6 +90,20 @@
         </section>
 
         <section class="chapter-summary-card">
+          <div class="chapter-summary-head">
+            <div>
+              <p class="eyebrow">Srimad Bhagavad Gita</p>
+              <h2 id="chapterTitle">Loading...</h2>
+              <div class="chapter-meta" id="chapterMeta"></div>
+            </div>
+            <div class="hero-art hero-art-circle chapter-summary-art">
+              <img
+                id="chapterImage"
+                src="assets/images/bg01.jpg"
+                alt="Lord Krishna and Arjuna on the chariot"
+              />
+            </div>
+          </div>
           <p class="eyebrow">Chapter Description</p>
           <p class="chapter-summary" id="chapterSummary"></p>
         </section>
