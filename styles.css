@@ -60,6 +60,7 @@ button {
 .player-card,
 .shloka-card,
 .jump-grid-wrap,
+.chapter-summary-card,
 .sidebar {
   border: 1px solid var(--border);
   background: var(--surface);
@@ -200,7 +201,8 @@ button {
 .control-bar,
 .player-card,
 .shloka-card,
-.jump-grid-wrap {
+.jump-grid-wrap,
+.chapter-summary-card {
   margin-top: 1rem;
   border-radius: 28px;
   padding: 1rem 1.15rem;
@@ -317,11 +319,11 @@ button {
 }
 
 .main-panel {
-  padding: 1.2rem;
+  padding: 0.9rem 1.2rem 1.2rem;
 }
 
 .top-strip {
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
 
 .edge-pager {
@@ -342,6 +344,10 @@ button {
 
 .chapter-summary {
   margin-top: 0.8rem;
+}
+
+.chapter-summary-card .chapter-summary {
+  margin-top: 0.2rem;
 }
 
 .chapter-rail {

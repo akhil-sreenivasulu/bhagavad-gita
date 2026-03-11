@@ -19,11 +19,31 @@
           <a class="secondary-link" href="telugu.html">తెలుగు</a>
         </section>
 
+        <article class="shloka-card">
+          <div class="verse-header">
+            <p class="eyebrow" id="verseLocation">Verse</p>
+            <div class="jump-actions">
+              <button id="prevVerse" type="button">Prev</button>
+              <button id="nextVerse" type="button">Next</button>
+            </div>
+          </div>
+
+          <div class="shloka-text" id="verseText"></div>
+          <div class="transliteration" id="transliteration"></div>
+          <div class="meaning-block">
+            <h3 id="meaningHeading">Meaning</h3>
+            <p id="verseMeaning"></p>
+          </div>
+          <details class="word-meanings">
+            <summary id="wordMeaningLabel">Word-by-word meaning</summary>
+            <p id="wordMeanings"></p>
+          </details>
+        </article>
+
         <section class="hero">
           <div class="hero-copy">
             <p class="eyebrow">Srimad Bhagavad Gita</p>
             <h1 id="chapterTitle">Loading...</h1>
-            <p class="chapter-summary" id="chapterSummary"></p>
             <div class="chapter-meta" id="chapterMeta"></div>
           </div>
           <div class="hero-art hero-art-circle">
@@ -54,27 +74,6 @@
           <audio id="ambienceAudio" preload="metadata" loop src="assets/bg-full.mp3"></audio>
         </section>
 
-        <article class="shloka-card">
-          <div class="verse-header">
-            <p class="eyebrow" id="verseLocation">Verse</p>
-            <div class="jump-actions">
-              <button id="prevVerse" type="button">Prev</button>
-              <button id="nextVerse" type="button">Next</button>
-            </div>
-          </div>
-
-          <div class="shloka-text" id="verseText"></div>
-          <div class="transliteration" id="transliteration"></div>
-          <div class="meaning-block">
-            <h3 id="meaningHeading">Meaning</h3>
-            <p id="verseMeaning"></p>
-          </div>
-          <details class="word-meanings">
-            <summary id="wordMeaningLabel">Word-by-word meaning</summary>
-            <p id="wordMeanings"></p>
-          </details>
-        </article>
-
         <section class="jump-grid-wrap">
           <div class="section-head">
             <div>
@@ -84,6 +83,11 @@
             <p id="jumpLabel"></p>
           </div>
           <div class="jump-grid" id="jumpGrid"></div>
+        </section>
+
+        <section class="chapter-summary-card">
+          <p class="eyebrow">Chapter Description</p>
+          <p class="chapter-summary" id="chapterSummary"></p>
         </section>
       </main>
 
