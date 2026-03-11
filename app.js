@@ -156,10 +156,12 @@ async function initReader() {
   }
 
   function renderVerse(chapterData, verse) {
-    verseTextEl.textContent = verse.text;
+    verseTextEl.textContent = LANGUAGE === 'te' ? verse.teluguText || verse.text : verse.text;
     transliterationEl.textContent = verse.transliteration;
-    verseMeaningEl.textContent = verse.meaning;
-    wordMeaningsEl.textContent = verse.wordMeanings;
+    verseMeaningEl.textContent =
+      LANGUAGE === 'te' ? verse.teluguMeaning || verse.meaning : verse.meaning;
+    wordMeaningsEl.textContent =
+      LANGUAGE === 'te' ? verse.teluguWordMeanings || verse.wordMeanings : verse.wordMeanings;
     jumpLabelEl.textContent = `${chapterData.verses.length} ${ui.jumpCountSuffix}`;
 
     jumpGridEl.innerHTML = chapterData.verses
@@ -233,6 +235,45 @@ async function initReader() {
       setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex - 1].verseNumber);
     }
   });
+
+  let touchStartX = 0;
+  let touchStartY = 0;
+
+  window.addEventListener(
+    'touchstart',
+    (event) => {
+      const touch = event.changedTouches[0];
+      touchStartX = touch.clientX;
+      touchStartY = touch.clientY;
+    },
+    { passive: true }
+  );
+
+  window.addEventListener(
+    'touchend',
+    (event) => {
+      if (!currentChapter) return;
+
+      const touch = event.changedTouches[0];
+      const deltaX = touch.clientX - touchStartX;
+      const deltaY = touch.clientY - touchStartY;
+
+      if (Math.abs(deltaX) < 60 || Math.abs(deltaY) > 50) return;
+
+      const route = parseHash();
+      const currentIndex = currentChapter.verses.findIndex((item) => item.verseNumber === route.verse);
+      if (currentIndex === -1) return;
+
+      if (deltaX < 0 && currentChapter.verses[currentIndex + 1]) {
+        setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex + 1].verseNumber);
+      }
+
+      if (deltaX > 0 && currentChapter.verses[currentIndex - 1]) {
+        setHash(currentChapter.chapterNumber, currentChapter.verses[currentIndex - 1].verseNumber);
+      }
+    },
+    { passive: true }
+  );
 
   await loadManifest();
   ambienceToggleEl.textContent = ui.ambienceOff;
