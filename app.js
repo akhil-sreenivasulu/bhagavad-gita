@@ -1,11 +1,5 @@
 const LANGUAGE = document.body.dataset.language;
 
-if (LANGUAGE) {
-  initReader().catch((error) => {
-    document.body.innerHTML = `<pre style="padding:24px;color:white;">${error.message}</pre>`;
-  });
-}
-
 async function initReader() {
   const ui = UI_COPY[LANGUAGE] || UI_COPY.en;
   const sidebarEl = document.getElementById('sidebar');
@@ -381,3 +375,9 @@ const TELUGU_CHAPTERS = {
     summary: 'సర్వధర్మాలను విడిచి దైవంలో శరణు పొందమనే గీతా మహావాక్యంతో ఈ అధ్యాయం ముగుస్తుంది. జ్ఞానం, కర్మ, భక్తి అన్నింటి సారాన్ని మోక్ష మార్గంగా సమన్వయిస్తుంది.',
   },
 };
+
+if (LANGUAGE) {
+  initReader().catch((error) => {
+    document.body.innerHTML = `<pre style="padding:24px;color:white;">${error.message}</pre>`;
+  });
+}
