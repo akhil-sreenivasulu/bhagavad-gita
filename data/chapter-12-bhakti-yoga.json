@@ -1,0 +1,172 @@
+{
+  "chapterNumber": 12,
+  "name": "भक्तियोग",
+  "nameTranslation": "Bhakti Yoga",
+  "nameMeaning": "The Yoga of Devotion",
+  "summary": "The twelfth chapter of the Bhagavad Gita is \"Bhakti Yoga\". In this chapter, Krishna emphasizes the superiority of Bhakti Yoga (the path of devotion) over all other types of spiritual disciplines and reveals various aspects of devotion. He further explains that the devotees who perform pure devotional service to Him, with their consciousness, merged in Him and all their actions dedicated to Him, are quickly liberated from the cycle of life and death. He also describes the various qualities of the devotees who are very dear to Him.",
+  "summaryHindi": "भगवद गीता का बारहवां अध्याय भक्तियोग है। इस अध्याय में, कृष्ण भक्ति योग की श्रेष्ठता पर बल देते हैं और भक्ति के विभिन्न पहलुओं का वर्णन करते हैं। वे आगे बताते हैं कि वे भक्त जो अपने सभी कर्म उनको समर्पित करके, अपनी चेतना उनमें विलीन करके, सच्चे मन से उनकी भक्ति करते हैं वे बहुत जल्दी जीवन और मृत्यु के चक्र से मुक्ति पा लेते हैं। वे अपने सबसे प्रिय भक्तों के विभिन्न गुड़ों का भी वर्णन करते हैं।",
+  "image": "assets/images/gita-111.jpg",
+  "audio": "assets/Bhagavad-gita12.mp3",
+  "verses": [
+    {
+      "id": 470,
+      "verseNumber": 1,
+      "text": "अर्जुन उवाचएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।येचाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः।।12.1।।",
+      "transliteration": "arjuna uvācha\nevaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate\nye chāpy akṣharam avyaktaṁ teṣhāṁ ke yoga-vittamāḥ\n",
+      "wordMeanings": "arjunaḥ uvācha—Arjun said; evam—thus; satata—steadfastly; yuktāḥ—devoted; ye—those; bhaktāḥ—devotees; tvām—you; paryupāsate—worship; ye—those; cha—and; api—also; akṣharam—the imperishable; avyaktam—the formless Brahman; teṣhām—of them; ke—who; yoga-vit-tamāḥ—more perfect in Yog\n",
+      "meaning": "Arjuna said: Which of these has greater knowledge of yoga—those devotees who meditate on You, ever integrated, or those who meditate on the Imperishable and the Unmanifest?"
+    },
+    {
+      "id": 471,
+      "verseNumber": 2,
+      "text": "श्री भगवानुवाचमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते।श्रद्धया परयोपेतास्ते मे युक्ततमा मताः।।12.2।।",
+      "transliteration": "śhrī-bhagavān uvācha\nmayy āveśhya mano ye māṁ nitya-yuktā upāsate\nśhraddhayā parayopetās te me yuktatamā matāḥ\n",
+      "wordMeanings": "śhrī-bhagavān uvācha—the Blessed Lord said; mayi—on me; āveśhya—fix; manaḥ—the mind; ye—those; mām—me; nitya yuktāḥ—always engaged; upāsate—worship; śhraddhayā—with faith; parayā—best; upetāḥ—endowed; te—they; me—by me; yukta-tamāḥ—situated highest in Yog; matāḥ—I consider\n",
+      "meaning": "The Lord said, \"Those who, ever integrated with Me and possessing supreme faith, worship Me, focusing their minds on Me—these are considered by Me to be the highest among the yogis.\""
+    },
+    {
+      "id": 472,
+      "verseNumber": 3,
+      "text": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते।सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम्।।12.3।।",
+      "transliteration": "ye tv akṣharam anirdeśhyam avyaktaṁ paryupāsate\nsarvatra-gam achintyañcha kūṭa-stham achalandhruvam\n sanniyamyendriya-grāmaṁ sarvatra sama-buddhayaḥ\nte prāpnuvanti mām eva sarva-bhūta-hite ratāḥ\n",
+      "wordMeanings": "ye—who; tu—but; akṣharam—the imperishable; anirdeśhyam—the indefinable; avyaktam—the unmanifest; paryupāsate—worship; sarvatra-gam—the all-pervading; achintyam—the unthinkable; cha—and; kūṭa-stham—the unchanging; achalam—the immovable; dhruvam—the eternal; \n sanniyamya—restraining; indriya-grāmam—the senses; sarvatra—everywhere; sama-buddhayaḥ—even-minded; te—they; prāpnuvanti—attain; mām—me; eva—also; sarva-bhūta-hite—in the welfare of all beings; ratāḥ—engaged\n",
+      "meaning": "But those who meditate on the Imperishable, the indefinable, the unmanifest, omnipresent, unthinkable, common to all beings, immovable, and constant—"
+    },
+    {
+      "id": 473,
+      "verseNumber": 4,
+      "text": "संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः।ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः।।12.4।।",
+      "transliteration": "sanniyamyendriya-grāmaṁ  sarvatra    sama-buddhayaḥ  te  prāpnuvanti mām eva sarva-bhūta-hite    ratāḥ",
+      "wordMeanings": "sanniyamya-controlling;    indriya-grāmam—all  the senses; sarvatra—everywhere;     sama-buddayaḥ—equally  disposed;   te-they;    prāpnuvanti—achieve;    mām—unto    Me; eva—certainly;  sarva-bhūtahite—all living  entities'   welfare;    ratāḥ—engaged.",
+      "meaning": "Having subdued all the senses, being even-minded, and engaged in the welfare of all beings, they too come to Me only."
+    },
+    {
+      "id": 474,
+      "verseNumber": 5,
+      "text": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्।\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते।।12.5।।\n ",
+      "transliteration": "kleśho ’dhikataras teṣhām avyaktāsakta-chetasām\navyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate\n",
+      "wordMeanings": "kleśhaḥ—tribulations; adhika-taraḥ—full of; teṣhām—of those; avyakta—to the unmanifest; āsakta—attached; chetasām—whose minds; avyaktā—the unmanifest; hi—indeed; gatiḥ—path; duḥkham—exceeding difficulty; deha-vadbhiḥ—for the embodied; avāpyate—is reached\n",
+      "meaning": "Greater is the difficulty for those whose minds are thus attached to the unmanifest, for the way of the unmanifest is hard to reach for embodied beings."
+    },
+    {
+      "id": 475,
+      "verseNumber": 6,
+      "text": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः।अनन्येनैव योगेन मां ध्यायन्त उपासते।।12.6।।",
+      "transliteration": "ye tu sarvāṇi karmāṇi mayi sannyasya mat-paraḥ\nananyenaiva yogena māṁ dhyāyanta upāsate\n",
+      "wordMeanings": "ye—who; tu—but; sarvāṇi—all; karmāṇi—actions; mayi—to me; sannyasya—dedicating; mat-paraḥ—regarding me as the Supreme goal; ananyena—exclusively; eva—certainly; yogena—with devotion; mām—me; dhyāyantaḥ—meditating; upāsate—worship;\n",
+      "meaning": "For those who dedicate all their actions to Me, hold Me as their supreme goal, are intent on Me, and worship Me, meditating on Me with exclusive devotion;"
+    },
+    {
+      "id": 476,
+      "verseNumber": 7,
+      "text": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।भवामि नचिरात्पार्थ मय्यावेशितचेतसाम्।।12.7।।",
+      "transliteration": "teṣhām ahaṁ samuddhartā mṛityu-saṁsāra-sāgarāt\nbhavāmi na chirāt pārtha mayy āveśhita-chetasām\n",
+      "wordMeanings": "teṣhām—of those; aham—I; samuddhartā—the deliverer; mṛityu-saṁsāra-sāgarāt—from the ocean of birth and death; bhavāmi—(I) become; na—not; chirāt—after a long time; pārtha—Arjun, the son of Pritha; mayi—with me; āveśhita chetasām—of those whose consciousness is united\n",
+      "meaning": "Those whose minds are thus focused on Me, I soon become their savior from the ocean of mortal life."
+    },
+    {
+      "id": 477,
+      "verseNumber": 8,
+      "text": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय।निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः।।12.8।।",
+      "transliteration": "mayy eva mana ādhatsva mayi buddhiṁ niveśhaya\nnivasiṣhyasi mayy eva ata ūrdhvaṁ na sanśhayaḥ\n",
+      "wordMeanings": "mayi—on me; eva—alone; manaḥ—mind; ādhatsva—fix; mayi—on me; buddhim—intellect; niveśhaya—surrender; nivasiṣhyasi—you shall always live; mayi—in me; eva—alone; ataḥ ūrdhvam—thereafter; na—not; sanśhayaḥ—doubt\n",
+      "meaning": "Focus your mind on Me alone; and let your intellect enter into Me. Then, you will live in Me alone; there is no doubt."
+    },
+    {
+      "id": 478,
+      "verseNumber": 9,
+      "text": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्।अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय।।12.9।।",
+      "transliteration": "atha chittaṁ samādhātuṁ na śhaknoṣhi mayi sthiram\nabhyāsa-yogena tato mām ichchhāptuṁ dhanañjaya\n",
+      "wordMeanings": "atha—if; chittam—mind; samādhātum—to fix; na śhaknoṣhi—(you) are unable; mayi—on me; sthiram—steadily; abhyāsa-yogena—by uniting with God through repeated practice; tataḥ—then; mām—me; ichchhā—desire; āptum—to attain; dhanañjaya—Arjun, the conqueror of wealth\n",
+      "meaning": "If now you are unable to focus your mind on Me, then seek to reach Me, O Arjuna, through the practice of repetition."
+    },
+    {
+      "id": 479,
+      "verseNumber": 10,
+      "text": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव।मदर्थमपि कर्माणि कुर्वन् सिद्धिमवाप्स्यसि।।12.10।।",
+      "transliteration": "abhyāse ’py asamartho ’si mat-karma-paramo bhava\nmad-artham api karmāṇi kurvan siddhim avāpsyasi\n",
+      "wordMeanings": "abhyāse—in practice; api—if; asamarthaḥ—unable; asi—you; mat-karma paramaḥ—devotedly work for me; bhava—be; mat-artham—for my sake; api—also; karmāṇi—work; kurvan—performing; siddhim—perfection; avāpsyasi—you shall achieve\n",
+      "meaning": "If you are incapable of even this practice of repetition, then devote yourself to My deeds. For even by working for My sake, you will attain perfection."
+    },
+    {
+      "id": 480,
+      "verseNumber": 11,
+      "text": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः।सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्।।12.11।।",
+      "transliteration": "athaitad apy aśhakto ’si kartuṁ mad-yogam āśhritaḥ\nsarva-karma-phala-tyāgaṁ tataḥ kuru yatātmavān\n",
+      "wordMeanings": "atha—if; etat—this; api—even; aśhaktaḥ—unable; asi—you are; kartum—to work; mad-yogam—with devotion to me; āśhritaḥ—taking refuge; sarva-karma—of all actions; phala-tyāgam—to renounce the fruits; tataḥ—then; kuru—do; yata-ātma-vān—be situated in the self\n",
+      "meaning": "If you are unable to do even this—that is, take refuge in My Yoga—then, with your self-control, renounce the fruits of every action."
+    },
+    {
+      "id": 481,
+      "verseNumber": 12,
+      "text": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते।ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्।।12.12।।",
+      "transliteration": "śhreyo hi jñānam abhyāsāj jñānād dhyānaṁ viśhiṣhyate\ndhyānāt karma-phala-tyāgas tyāgāch chhāntir anantaram\n",
+      "wordMeanings": "śhreyaḥ—better; hi—for; jñānam—knowledge; abhyāsāt—than (mechanical) practice; jñānāt—than knowledge; dhyānam—meditation; viśhiṣhyate—better; dhyānāt—than meditation; karma-phala-tyāgaḥ—renunciation of the fruits of actions; tyāgāt—renunciation; śhāntiḥ—peace; anantaram—immediately\n",
+      "meaning": "Far better is knowledge of the Self than the repeated practice (of remembrance of the Lord). Better is meditation than this knowledge; better is renunciation of the fruits of action than meditation. From such renunciation, peace ensues."
+    },
+    {
+      "id": 482,
+      "verseNumber": 13,
+      "text": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।निर्ममो निरहङ्कारः समदुःखसुखः क्षमी।।12.13।।",
+      "transliteration": "adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha\nnirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī\n",
+      "wordMeanings": "adveṣhṭā—free from malice; sarva-bhūtānām—toward all living beings; maitraḥ—friendly; karuṇaḥ—compassionate; eva—indeed; cha—and; nirmamaḥ—free from attachment to possession; nirahankāraḥ—free from egoism; sama—equipoised; duḥkha—distress; sukhaḥ—happiness; kṣhamī—forgiving;\n",
+      "meaning": "He who never hates any being, who is friendly and compassionate, who is free from the feelings of \"I\" and \"mine,\" who looks upon all pain and pleasure equally, and who is enduring;"
+    },
+    {
+      "id": 483,
+      "verseNumber": 14,
+      "text": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः।मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः।।12.14।।",
+      "transliteration": "santuṣhṭaḥ satataṁ yogī yatātmā dṛiḍha-niśhchayaḥ\nmayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ\n",
+      "wordMeanings": "santuṣhṭaḥ—contented; satatam—steadily; yogī—united in devotion; yata-ātmā—self-controlled; dṛiḍha-niśhchayaḥ—firm in conviction; mayi—to me; arpita—dedicated; manaḥ—mind; buddhiḥ—intellect; yaḥ—who; mat-bhaktaḥ—my devotees; saḥ—they; me—to me; priyaḥ—very dear\n",
+      "meaning": "He who is content, who meditates ever, is self-restrained, and is firm in his convictions, and has his mind and reason dedicated to Me—he is dear to Me."
+    },
+    {
+      "id": 484,
+      "verseNumber": 15,
+      "text": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः।।12.15।।",
+      "transliteration": "yasmān nodvijate loko lokān nodvijate cha yaḥ\nharṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ\n",
+      "wordMeanings": "yasmāt—by whom; na—not; udvijate—are agitated; lokaḥ—people; lokāt—from people; na—not; udvijate—are disturbed; cha—and; yaḥ—who; harṣha—pleasure; amarṣha—pain; bhaya—fear; udvegaiḥ—anxiety; muktaḥ—freed; yaḥ—who; saḥ—they; cha—and; me—to me; priyaḥ—very dear\n",
+      "meaning": "He from whom the world has no cause to be frightened, who is not frightened by the world, who is free from joy and impatience, fear, and aversion - he is dear to me."
+    },
+    {
+      "id": 485,
+      "verseNumber": 16,
+      "text": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः।सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः।।12.16।।",
+      "transliteration": "anapekṣhaḥ śhuchir dakṣha udāsīno gata-vyathaḥ\nsarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ\n",
+      "wordMeanings": "anapekṣhaḥ—indifferent to worldly gain; śhuchiḥ—pure; dakṣhaḥ—skillful; udāsīnaḥ—without cares; gata-vyathaḥ—untroubled; sarva-ārambha—of all undertakings; parityāgī—renouncer; saḥ—who; mat-bhaktaḥ—my devotee; saḥ—he; me—to ne; priyaḥ—very dear\n",
+      "meaning": "He who is free from desires, who is pure, expert, indifferent, and free from agony, who has renounced every undertaking—he is dear to me."
+    },
+    {
+      "id": 486,
+      "verseNumber": 17,
+      "text": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति।शुभाशुभपरित्यागी भक्ितमान्यः स मे प्रियः।।12.17।।",
+      "transliteration": "yo na hṛiṣhyati na dveṣhṭi na śhochati na kāṅkṣhati\nśhubhāśhubha-parityāgī bhaktimān yaḥ sa me priyaḥ\n",
+      "wordMeanings": "yaḥ—who; na—neither; hṛiṣhyati—rejoice; na—nor; dveṣhṭi—despair; na—neither; śhochati—lament; na—nor; kāṅkṣhati—hanker for gain; śhubha-aśhubha-parityāgī—who renounce both good and evil deeds; bhakti-mān—full of devotion; yaḥ—who; saḥ—that person; me—to me; priyaḥ—very dear\n",
+      "meaning": "He who does not rejoice, nor hate, nor grieve, nor desire, who renounces both good and evil, and who is full of devotion to Me—such a devotee is dear to Me."
+    },
+    {
+      "id": 487,
+      "verseNumber": 18,
+      "text": "समः शत्रौ च मित्रे च तथा मानापमानयोः।शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः।।12.18।।",
+      "transliteration": "samaḥ śhatrau cha mitre cha tathā mānāpamānayoḥ\nśhītoṣhṇa-sukha-duḥkheṣhu samaḥ saṅga-vivarjitaḥ\n",
+      "wordMeanings": "samaḥ—alike; śhatrau—to a foe; cha—and; mitre—to a friend; cha tathā—as well as; māna-apamānayoḥ—in honor and dishonor; śhīta-uṣhṇa—in cold and heat; sukha-duḥkheṣhu—in joy and sorrow; samaḥ—equipoised; saṅga-vivarjitaḥ—free from all unfavorable association;\n",
+      "meaning": "He who is the same to foe and friend, honor and dishonor, who is alike to both cold and heat, pleasure and pain, and who is free from all attachments;"
+    },
+    {
+      "id": 488,
+      "verseNumber": 19,
+      "text": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येनकेनचित्।अनिकेतः स्थिरमतिर्भक्ितमान्मे प्रियो नरः।।12.19।।",
+      "transliteration": "tulya-nindā-stutir maunī santuṣhṭo yena kenachit\naniketaḥ sthira-matir bhaktimān me priyo naraḥ\n",
+      "wordMeanings": "tulya—alike; nindā-stutiḥ—reproach and praise; maunī—silent contemplation; santuṣhṭaḥ—contented; yena kenachit—with anything; aniketaḥ—without attachment to the place of residence; sthira—firmly fixed; matiḥ—intellect; bhakti-mān—full of devotion; me—to me; priyaḥ—very dear; naraḥ—a person\n",
+      "meaning": "He who regards both blame and praise alike, who is silent and content with any lot, who has no home, who is firm of mind, and who is devoted to Me - such a man is dear to Me."
+    },
+    {
+      "id": 489,
+      "verseNumber": 20,
+      "text": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते।श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः।।12.20।।",
+      "transliteration": "ye tu dharmyāmṛitam idaṁ yathoktaṁ paryupāsate\nśhraddadhānā mat-paramā bhaktās te ’tīva me priyāḥ\n",
+      "wordMeanings": "ye—who; tu—indeed; dharma—of wisdom; amṛitam—nectar; idam—this; yathā—as; uktam—declared; paryupāsate—exclusive devotion; śhraddadhānāḥ—with faith; mat-paramāḥ—intent on me as the supreme goal; bhaktāḥ—devotees; te—they; atīva—exceedingly; me—to me; priyāḥ—dear\n",
+      "meaning": "But those devotees who follow this nectar of virtuous duty, as taught above, who are full of faith and regard Me as the Supreme, are exceedingly dear to Me."
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "chapterNumber": 18,
+  "name": "मोक्षसंन्यासयोग",
+  "nameTranslation": "Moksha Sanyaas Yoga",
+  "nameMeaning": "Yoga through the Perfection of Renunciation and Surrender",
+  "summary": "The eighteenth chapter of the Bhagavad Gita is \"Moksha Sanyas Yoga\". Arjuna requests the Lord to explain the difference between the two types of renunciations - sanyaas(renunciation of actions) and tyaag(renunciation of desires). Krishna explains that a sanyaasi is one who abandons family and society in order to practise spiritual discipline whereas a tyaagi is one who performs their duties without attachment to the rewards of their actions and dedicating them to the God. Krishna recommends the second kind of renunciation - tyaag. Krishna then gives a detailed analysis of the effects of the three modes of material nature. He declares that the highest path of spirituality is pure, unconditional loving service unto the Supreme Divine Personality, Krishna. If we always remember Him, keep chanting His name and dedicate all our actions unto Him, take refuge in Him and make Him our Supreme goal, then by His grace, we will surely overcome all obstacles and difficulties and be freed from this cycle of birth and death.",
+  "summaryHindi": "भगवद गीता का अठारहवा अध्याय मोक्षसन्यासयोग है। अर्जुन कृष्ण से अनुरोध करते हैं कि वे संन्यास और त्याग के बीच अंतर को समझाने की कृपा करें। कृष्ण बताते हैं कि एक संन्यासी वह है जो आध्यात्मिक अनुशासन का अभ्यास करने के लिए परिवार और समाज को त्याग देता है जबकि एक त्यागी वह है जो अपने कर्मों के फलों कि चिंता करे बिना भगवन को समर्पित करके कर्म करता रहता है। कृष्ण बताते हैं कि त्याग संन्यास से श्रेष्ठ है। फिर कृष्णा भौतिक संसार के तीन प्रकार के गुणों का विस्तारपूर्वक वर्णन करते हैं। कृष्णा घोषणा करते हैं कि परमात्मा की शुद्ध एवं सत्य भक्ति ही आध्यात्मिकता का उच्चतम मार्ग है। अगर हम हर क्षण उनका स्मरण करते रहें, उनका नाम जपते रहें, अपना सर्वस्व उनको समर्पित कर दें, उन्हें ही अपना सर्वोच्च लक्ष्य बना लें तो उनकी कृपा से हम निश्चित रूप से सभी बाधाओं और कठिनाइओं को दूर कर पाएंगे और इस जन्म और मृत्यु के चक्र से मुक्त हो पाएंगे।",
+  "image": "assets/images/gita-118.jpg",
+  "audio": "assets/Bhagavad-gita18.mp3",
+  "verses": [
+    {
+      "id": 624,
+      "verseNumber": 1,
+      "text": "अर्जुन उवाच\nसंन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्।\nत्यागस्य च हृषीकेश पृथक्केशिनिषूदन।।18.1।।\n ",
+      "transliteration": "arjuna uvācha\nsannyāsasya mahā-bāho tattvam ichchhāmi veditum\ntyāgasya cha hṛiṣhīkeśha pṛithak keśhi-niṣhūdana\n",
+      "wordMeanings": "arjunaḥ uvācha—Arjun said; sanyāsasya—of renunciation of actions; mahā-bāho—mighty-armed one; tattvam—the truth; ichchhāmi—I wish; veditum—to understand; tyāgasya—of renunciation of desires for enjoying the fruits of actions; cha—and; hṛiṣhīkeśha—Krishna, the Lord of the senses; pṛithak—distinctively; keśhī-niṣhūdana—Krishna, the killer of the Keshi demon\n",
+      "meaning": "Arjuna said, \"I desire to know the truth about renunciation and abnegation separately, O Krishna.\""
+    },
+    {
+      "id": 625,
+      "verseNumber": 2,
+      "text": "श्री भगवानुवाच\nकाम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः।\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः।।18.2।।\n ",
+      "transliteration": "śhrī-bhagavān uvācha\nkāmyānāṁ karmaṇāṁ nyāsaṁ sannyāsaṁ kavayo viduḥ\nsarva-karma-phala-tyāgaṁ prāhus tyāgaṁ vichakṣhaṇāḥ\n",
+      "wordMeanings": "śhrī-bhagavān uvācha—the Supreme Divine Personality said; kāmyānām—desireful; karmaṇām—of actions; nyāsam—giving up; sanyāsam—renunciation of actions; kavayaḥ—the learned; viduḥ—to understand; sarva—all; karma-phala—fruits of actions; tyāgam—renunciation of desires for enjoying the fruits of actions; prāhuḥ—declare; tyāgam—renunciation of desires for enjoying the fruits of actions; vichakṣhaṇāḥ—the wise\n",
+      "meaning": "The Lord said, \"The sages hold that Sannyasa is the giving up of all works motivated by desire, and the wise declare Tyaga to be the abandonment of the fruits of all works."
+    },
+    {
+      "id": 626,
+      "verseNumber": 3,
+      "text": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः।\nयज्ञदानतपःकर्म न त्याज्यमिति चापरे।।18.3।।\n ",
+      "transliteration": "tyājyaṁ doṣha-vad ity eke karma prāhur manīṣhiṇaḥ\nyajña-dāna-tapaḥ-karma na tyājyam iti chāpare\n",
+      "wordMeanings": "tyājyam—should be given up; doṣha-vat—as evil; iti—thus; eke—some; karma—actions; prāhuḥ—declare; manīṣhiṇaḥ—the learned; yajña—sacrifice; dāna—charity; tapaḥ—penance; karma—acts; na—never; tyājyam—should be abandoned; iti—thus; cha—and; apare—others\n",
+      "meaning": "Some sages say that all actions should be abandoned as evil; others declare that works such as sacrifices, gifts, and austerities should not be abandoned."
+    },
+    {
+      "id": 627,
+      "verseNumber": 4,
+      "text": "निश्चयं श्रृणु मे तत्र त्यागे भरतसत्तम।त्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः।।18.4।।",
+      "transliteration": "niśhchayaṁ śhṛiṇu me tatra tyāge bharata-sattama\ntyāgo hi puruṣha-vyāghra tri-vidhaḥ samprakīrtitaḥ\n",
+      "wordMeanings": "niśhchayam—conclusion; śhṛiṇu—hear; me—my; tatra—there; tyāge—about renunciation of desires for enjoying the fruits of actions; bharata-sat-tama—best of the Bharatas; tyāgaḥ—renunciation of desires for enjoying the fruits of actions; hi—indeed; puruṣha-vyāghra—tiger amongst men; tri-vidhaḥ—of three kinds; samprakīrtitaḥ—declared\n",
+      "meaning": "Listen to My decision, O Arjuna, concerning abandonment; for abandonment is declared to be of three kinds."
+    },
+    {
+      "id": 628,
+      "verseNumber": 5,
+      "text": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्।यज्ञो दानं तपश्चैव पावनानि मनीषिणाम्।।18.5।।",
+      "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat\nyajño dānaṁ tapaśh chaiva pāvanāni manīṣhiṇām\n",
+      "wordMeanings": "yajña—sacrifice; dāna—charity; tapaḥ—penance; karma—actions; na—never; tyājyam—should be abandoned; kāryam eva—must certainly be performed; tat—that; yajñaḥ—sacrifice; dānam—charity; tapaḥ—penance; cha—and; eva—indeed; pāvanāni—purifying; manīṣhiṇām—for the wise\n",
+      "meaning": "(a) The acts of sacrifice, gifts, and austerities should not be relinquished; but should be performed...\n\n(b) ...For sacrifices, gifts, and austerities are the means of purification for the wise."
+    },
+    {
+      "id": 629,
+      "verseNumber": 6,
+      "text": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च।कर्तव्यानीति मे पार्थ निश्िचतं मतमुत्तमम्।।18.6।।",
+      "transliteration": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni cha\nkartavyānīti me pārtha niśhchitaṁ matam uttamam\n",
+      "wordMeanings": "etāni—these; api tu—must certainly be; karmāṇi—activities; saṅgam—attachment; tyaktvā—giving up; phalāni—rewards; cha—and; kartavyāni—should be done as duty; iti—such; me—my; pārtha—Arjun, the son of Pritha; niśhchitam—definite; matam—opinion; uttamam—supreme\n",
+      "meaning": "It is My decided and final view that even these acts should be done, O Arjuna, with relinquishment of attachment and the forsaking of the fruits thereof."
+    },
+    {
+      "id": 630,
+      "verseNumber": 7,
+      "text": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते।मोहात्तस्य परित्यागस्तामसः परिकीर्तितः।।18.7।।",
+      "transliteration": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate\nmohāt tasya parityāgas tāmasaḥ parikīrtitaḥ\n",
+      "wordMeanings": "niyatasya—of prescribed duties; tu—but; sanyāsaḥ—renunciation; karmaṇaḥ—actions; na—never; upapadyate—to be performed; mohāt—deluded; tasya—of that; parityāgaḥ—renunciation; tāmasaḥ—in the mode of ignorance; parikīrtitaḥ—has been declared\n",
+      "meaning": "But the renunciation of obligatory acts is not proper; abandonment of these through delusion is declared to be of a Tamasic nature."
+    },
+    {
+      "id": 631,
+      "verseNumber": 8,
+      "text": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत्।स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्।।18.8।।",
+      "transliteration": "duḥkham ity eva yat karma kāya-kleśha-bhayāt tyajet\nsa kṛitvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet\n",
+      "wordMeanings": "duḥkham—troublesome; iti—as; eva—indeed; yat—which; karma—duties; kāya—bodily; kleśha—discomfort; bhayāt—out of fear; tyajet—giving up; saḥ—they; kṛitvā—having done; rājasam—in the mode of passion; tyāgam—renunciation of desires for enjoying the fruits of actions; na—never; eva—certainly; tyāga—renunciation of desires for enjoying the fruits of actions; phalam—result; labhet—attain\n",
+      "meaning": "He who renounces acts that are painful out of fear of bodily suffering performs a Rajasika abandonment; however, he does not gain the fruit of such abandonment."
+    },
+    {
+      "id": 632,
+      "verseNumber": 9,
+      "text": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन।सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः।।18.9।।",
+      "transliteration": "kāryam ity eva yat karma niyataṁ kriyate ‘rjuna\nsaṅgaṁ tyaktvā phalaṁ chaiva sa tyāgaḥ sāttviko mataḥ\n",
+      "wordMeanings": "kāryam—as a duty; iti—as; eva—indeed; yat—which; karma niyatam—obligatory actions; kriyate—are performed; arjuna—Arjun; saṅgam—attachment; tyaktvā—relinquishing; phalam—reward; cha—and; eva—certainly; saḥ—such; tyāgaḥ—renunciation of desires for enjoying the fruits of actions; sāttvikaḥ—in the mode of goodness; mataḥ—considered\n",
+      "meaning": "When actions are performed as they ought to be done, O Arjuna, renouncing attachment and the results thereof, such abandonment is regarded as Sattvika."
+    },
+    {
+      "id": 633,
+      "verseNumber": 10,
+      "text": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते।त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः।।18.10।।",
+      "transliteration": "na dveṣhṭy akuśhalaṁ karma kuśhale nānuṣhajjate\ntyāgī sattva-samāviṣhṭo medhāvī chhinna-sanśhayaḥ\n",
+      "wordMeanings": "na—neither; dveṣhṭi—hate; akuśhalam—disagreeable; karma—work; kuśhale—to an agreeable; na—nor; anuṣhajjate—seek; tyāgī—one who renounces desires for enjoying the fruits of actions; sattva—in the mode of goodness; samāviṣhṭaḥ—endowed with; medhāvī—intelligent; chhinna-sanśhayaḥ—those who have no doubts\n",
+      "meaning": "One who has abandoned, imbued with Sattva, wise, and whose doubts have been dispelled—such a person neither hates disagreeable acts nor clings to agreeable ones."
+    },
+    {
+      "id": 634,
+      "verseNumber": 11,
+      "text": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः।यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते।।18.11।।",
+      "transliteration": "na hi deha-bhṛitā śhakyaṁ tyaktuṁ karmāṇy aśheṣhataḥ\nyas tu karma-phala-tyāgī sa tyāgīty abhidhīyate\n",
+      "wordMeanings": "na—not; hi—indeed; deha-bhṛitā—for the embodied being; śhakyam—possible; tyaktum—to give up; karmāṇi—activities; aśheṣhataḥ—entirely; yaḥ—who; tu—but; karma-phala—fruits of actions; tyāgī—one who renounces all desires for enjoying the fruits of actions; saḥ—they; tyāgī—one who renounces all desires for enjoying the fruits of actions; iti—as; abhidhīyate—are said\n",
+      "meaning": "For, it is impossible for one who has a body to completely abandon actions. But he who gives up the results of his works is called the one who has abandoned them."
+    },
+    {
+      "id": 635,
+      "verseNumber": 12,
+      "text": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्।भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्।।18.12।।",
+      "transliteration": "aniṣhṭam iṣhṭaṁ miśhraṁ cha tri-vidhaṁ karmaṇaḥ phalam\nbhavaty atyāgināṁ pretya na tu sannyāsināṁ kvachit\n",
+      "wordMeanings": "aniṣhṭam—unpleasant; iṣhṭam—pleasant; miśhram—mixed; cha—and; tri-vidham—three-fold; karmaṇaḥ phalam—fruits of actions; bhavati—accrue; atyāginām—to those who are attached to persona reward; pretya—after death; na—not; tu—but; sanyāsinām—for the renouncers of actions; kvachit—ever\n",
+      "meaning": "Undesirable, desirable, and mixed—thus, threefold is the fruit of work that accrues after death to those who have not renounced; but to those who have renounced, none accrues whatsoever."
+    },
+    {
+      "id": 636,
+      "verseNumber": 13,
+      "text": "पञ्चैतानि महाबाहो कारणानि निबोध मे।सांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्।।18.13।।",
+      "transliteration": "pañchaitāni mahā-bāho kāraṇāni nibodha me\nsānkhye kṛitānte proktāni siddhaye sarva-karmaṇām\n",
+      "wordMeanings": "pañcha—five; etāni—these; mahā-bāho—mighty-armed one; kāraṇāni—causes; nibodha—listen; me—from me; sānkhye—of Sānkya; kṛita-ante—stop reactions of karmas; proktāni—explains; siddhaye—for the accomplishment; sarva—all; karmaṇām—of karmas\n",
+      "meaning": "Learn from Me, O Arjuna, these five causes for the accomplishment of all acts, as described in Sankhya-krtanta—the science of exact understanding of things—for the accomplishment of works."
+    },
+    {
+      "id": 637,
+      "verseNumber": 14,
+      "text": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम्।विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्।।18.14।।",
+      "transliteration": "adhiṣhṭhānaṁ tathā kartā karaṇaṁ cha pṛithag-vidham\nvividhāśh cha pṛithak cheṣhṭā daivaṁ chaivātra pañchamam\n",
+      "wordMeanings": "adhiṣhṭhānam—the body; tathā—also; kartā—the doer (soul); karaṇam—senses; cha—and; pṛithak-vidham—various kinds; vividhāḥ—many; cha—and; pṛithak—distinct; cheṣhṭāḥ—efforts; daivam—Divine Providence; cha eva atra—these certainly are (causes); pañchamam—the fifth\n",
+      "meaning": "The seat of action, the agent, the various kinds of organs, the different and distinctive functions of vital air, and the fifth among these—Divinity—all these."
+    },
+    {
+      "id": 638,
+      "verseNumber": 15,
+      "text": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः।न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः।।18.15।।",
+      "transliteration": "śharīra-vāṅ-manobhir yat karma prārabhate naraḥ\nnyāyyaṁ vā viparītaṁ vā pañchaite tasya hetavaḥ\n",
+      "wordMeanings": "śharīra-vāk-manobhiḥ—with body, speech, or mind; yat—which; karma—action; prārabhate—performs; naraḥ—a person; nyāyyam—proper; vā—or; viparītam—improper; vā—or; pañcha—five; ete—these; tasya—their; hetavaḥ—factors;\n",
+      "meaning": "For whatever action a person undertakes with their body, speech, and mind, whether right or wrong, i.e., enjoined or forbidden by the Sastras, the following five are its causes:"
+    },
+    {
+      "id": 639,
+      "verseNumber": 16,
+      "text": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः।पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः।।18.16।।",
+      "transliteration": "tatraivaṁ sati kartāram ātmānaṁ kevalaṁ tu yaḥ\npaśhyaty akṛita-buddhitvān na sa paśhyati durmatiḥ\n",
+      "wordMeanings": "tatra—there; evam sati—in spite of this; kartāram—the doer; ātmānam—the soul; kevalam—only; tu—but; yaḥ—who; paśhyati—see; akṛita-buddhitvāt—with impure intellect; na—not; saḥ—they; paśhyati—see; durmatiḥ—foolish\n",
+      "meaning": "Therefore, he who, due to his uncultivated understanding, perceives only the self as the agent, he of wicked mind does not truly perceive."
+    },
+    {
+      "id": 640,
+      "verseNumber": 17,
+      "text": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते।हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते।।18.17।।",
+      "transliteration": "yasya nāhankṛito bhāvo buddhir yasya na lipyate\nhatvā ‘pi sa imāl lokān na hanti na nibadhyate\n",
+      "wordMeanings": "yasya—whose; na ahankṛitaḥ—free from the ego of being the doer; bhāvaḥ—nature; buddhiḥ—intellect; yasya—whose; na lipyate—unattached; hatvā—slay; api—even; saḥ—they; imān—this; lokān—living beings; na—neither; hanti—kill; na—nor; nibadhyate—get bound\n",
+      "meaning": "He who is free from the notion of 'I am the doer,' and whose understanding is not tainted, does not slay, even though he slays all these men, nor is he bound."
+    },
+    {
+      "id": 641,
+      "verseNumber": 18,
+      "text": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना।करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः।।18.18।।",
+      "transliteration": "jñānaṁ jñeyaṁ parijñātā tri-vidhā karma-chodanā\nkaraṇaṁ karma karteti tri-vidhaḥ karma-saṅgrahaḥ\n",
+      "wordMeanings": "jñānam—knowledge; jñeyam—the object of knowledge; parijñātā—the knower; tri-vidhā—three factors; karma-chodanā—factors that induce action; karaṇam—the instrumens of action; karma—the act; kartā—the doer; iti—thus; tri-vidhaḥ—threefold; karma-saṅgrahaḥ—constituents of action\n",
+      "meaning": "Knowledge, the object of knowledge, and the knower are the threefold incitements to action. The instrument, the act, and the agent are the threefold constituents of action."
+    },
+    {
+      "id": 642,
+      "verseNumber": 19,
+      "text": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः।प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि।।18.19।।",
+      "transliteration": "jñānaṁ karma cha kartā cha tridhaiva guṇa-bhedataḥ\nprochyate guṇa-saṅkhyāne yathāvach chhṛiṇu tāny api\n",
+      "wordMeanings": "jñānam—knowledge; karma—action; cha—and; kartā—doer; cha—also; tridhā—of three kinds; eva—certainly; guṇa-bhedataḥ—distinguished according to the three modes of material nature; prochyate—are declared; guṇa-saṅkhyāne—Sānkhya philosophy, which describes the modes of material nature; yathā-vat—as they are; śhṛiṇu—listen; tāni—them; api—also\n",
+      "meaning": "Knowledge, action, and agent are declared in the science of the Gunas to be of three kinds, according to the difference in the Gunas. Listen to them also as they are."
+    },
+    {
+      "id": 643,
+      "verseNumber": 20,
+      "text": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते।अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्।।18.20।।",
+      "transliteration": "sarva-bhūteṣhu yenaikaṁ bhāvam avyayam īkṣhate\navibhaktaṁ vibhakteṣhu taj jñānaṁ viddhi sāttvikam\n",
+      "wordMeanings": "sarva-bhūteṣhu—within all living beings; yena—by which; ekam—one; bhāvam—nature; avyayam—imperishable; īkṣhate—one sees; avibhaktam—undivided; vibhakteṣhu—in diversity; tat—that; jñānam—knowledge; viddhi—understand; sāttvikam—in the mode of goodness\n",
+      "meaning": "Know that knowledge to be sattvika, by which one sees in all beings an immutable existence, undivided even in the divided."
+    },
+    {
+      "id": 644,
+      "verseNumber": 21,
+      "text": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्।वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्।।18.21।।",
+      "transliteration": "pṛithaktvena tu yaj jñānaṁ nānā-bhāvān pṛithag-vidhān\nvetti sarveṣhu bhūteṣhu taj jñānaṁ viddhi rājasam\n",
+      "wordMeanings": "pṛithaktvena—unconnected; tu—however; yat—which; jñānam—knowledge; nānā-bhāvān—manifold entities; pṛithak-vidhān—of diversity; vetti—consider; sarveṣhu—in all; bhūteṣhu—living entities; tat—that; jñānam—knowledge; viddhi—know; rājasam—in the mode of passion\n",
+      "meaning": "But that knowledge which sees all beings, due to their individual nature, as distinct entities—know that knowledge to be Rajasic."
+    },
+    {
+      "id": 645,
+      "verseNumber": 22,
+      "text": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्।अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्।।18.22।।",
+      "transliteration": "yat tu kṛitsna-vad ekasmin kārye saktam ahaitukam\natattvārtha-vad alpaṁ cha tat tāmasam udāhṛitam\n",
+      "wordMeanings": "yat—which; tu—but; kṛitsna-vat—as if it encompasses the whole; ekasmin—in single; kārye—action; saktam—engrossed; ahaitukam—without a reason; atattva-artha-vat—not based on truth; alpam—fragmental; cha—and; tat—that; tāmasam—in the mode of ignorance; udāhṛitam—is said to be\n",
+      "meaning": "But that knowledge is declared to be Tamasika which clings to one single act as if it were the whole, which is not based on reason, and which is false and insignificant."
+    },
+    {
+      "id": 646,
+      "verseNumber": 23,
+      "text": "नियतं सङ्गरहितमरागद्वेषतः कृतम्।अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते।।18.23।।",
+      "transliteration": "niyataṁ saṅga-rahitam arāga-dveṣhataḥ kṛitam\naphala-prepsunā karma yat tat sāttvikam uchyate\n",
+      "wordMeanings": "niyatam—in accordance with scriptures; saṅga-rahitam—free from attachment; arāga-dveṣhataḥ—free from attachment and aversion; kṛitam—done; aphala-prepsunā—without desire for rewards; karma—action; yat—which; tat—that; sāttvikam—in the mode of goodness; uchyate—is called\n",
+      "meaning": "That obligatory act is said to be Sattvika, which is done without attachment, without desire or aversion, and by one who seeks no fruit."
+    },
+    {
+      "id": 647,
+      "verseNumber": 24,
+      "text": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः।क्रियते बहुलायासं तद्राजसमुदाहृतम्।।18.24।।",
+      "transliteration": "yat tu kāmepsunā karma sāhankāreṇa vā punaḥ\nkriyate bahulāyāsaṁ tad rājasam udāhṛitam\n",
+      "wordMeanings": "yat—which; tu—but; kāma-īpsunā—prompted by selfish desire; karma—action; sa-ahaṅkāreṇa—with pride; vā—or; punaḥ—again; kriyate—enacted; bahula-āyāsam—stressfully; tat—that; rājasam—in the nature of passion; udāhṛitam—is said to be\n",
+      "meaning": "But that act is said to be Rajasic, which is performed with great effort by one who seeks to gratify their desires and under the prompting of egoism."
+    },
+    {
+      "id": 648,
+      "verseNumber": 25,
+      "text": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम्।मोहादारभ्यते कर्म यत्तत्तामसमुच्यते।।18.25।।",
+      "transliteration": "anubandhaṁ kṣhayaṁ hinsām anapekṣhya cha pauruṣham\nmohād ārabhyate karma yat tat tāmasam uchyate\n",
+      "wordMeanings": "anubandham—consequences; kṣhayam—loss; hinsām—injury; anapekṣhya—by disregarding; cha—and; pauruṣham—one’s own ability; mohāt—out of delusion; ārabhyate—is begun; karma—action; yat—which; tat—that; tāmasam—in the mode of ignorance; uchyate—is declared to be\n",
+      "meaning": "That act is said to be Tamasika which is undertaken through delusion, without regard to consequences, loss, injury, and one's own capacity."
+    },
+    {
+      "id": 649,
+      "verseNumber": 26,
+      "text": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः।सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते।।18.26।।",
+      "transliteration": "mukta-saṅgo ‘nahaṁ-vādī dhṛity-utsāha-samanvitaḥ\nsiddhy-asiddhyor nirvikāraḥ kartā sāttvika uchyate\n",
+      "wordMeanings": "mukta-saṅgaḥ—free from worldly attachment; anaham-vādī—free from ego; dhṛiti—strong resolve; utsāha—zeal; samanvitaḥ—endowed with; siddhi-asiddhyoḥ—in success and failure; nirvikāraḥ—unaffected; kartā—worker; sāttvikaḥ—in the mode of goodness; uchyate—is said to be\n",
+      "meaning": "That agent is said to be Sattvika, who is free from attachment, who does not boast of himself, who is endowed with steadiness and zeal, and who is unaffected by success and failure."
+    },
+    {
+      "id": 650,
+      "verseNumber": 27,
+      "text": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः।हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः।।18.27।।",
+      "transliteration": "rāgī karma-phala-prepsur lubdho hinsātmako ‘śhuchiḥ\nharṣha-śhokānvitaḥ kartā rājasaḥ parikīrtitaḥ\n",
+      "wordMeanings": "rāgī—craving; karma-phala—fruit of work; prepsuḥ—covet; lubdhaḥ—greedy; hinsā-ātmakaḥ—violent-natured; aśhuchiḥ—impure; harṣha-śhoka-anvitaḥ—moved by joy and sorrow; kartā—performer; rājasaḥ—in the mode of passion; parikīrtitaḥ—is declared\n",
+      "meaning": "That doer is called Rajasika who is passionate, who seeks the fruits of his actions, who is greedy, harmful, and impure, and who is swayed by delight and grief."
+    },
+    {
+      "id": 651,
+      "verseNumber": 28,
+      "text": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः।विषादी दीर्घसूत्री च कर्ता तामस उच्यते।।18.28।।",
+      "transliteration": "ayuktaḥ prākṛitaḥ stabdhaḥ śhaṭho naiṣhkṛitiko ‘lasaḥ\nviṣhādī dīrgha-sūtrī cha kartā tāmasa uchyate\n",
+      "wordMeanings": "ayuktaḥ—undisciplined; prākṛitaḥ—vulgar; stabdhaḥ—obstinate; śhaṭhaḥ—cunning; naiṣhkṛitikaḥ—dishonest or vile; alasaḥ—slothful; viṣhādī—unhappy and morose; dīrgha-sūtrī—procrastinating; cha—and; kartā—performer; tāmasaḥ—in the mode of ignorance; uchyate—is said to be\n",
+      "meaning": "That doer is said to be Tamasika who is unqualified, unrefined, obstinate, depraved, dishonest, indolent, despondent, and lethargic."
+    },
+    {
+      "id": 652,
+      "verseNumber": 29,
+      "text": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं श्रृणु।प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय।।18.29।।",
+      "transliteration": "buddher bhedaṁ dhṛiteśh chaiva guṇatas tri-vidhaṁ śhṛiṇu\nprochyamānam aśheṣheṇa pṛithaktvena dhanañjaya\n",
+      "wordMeanings": "buddheḥ—of intellect; bhedam—the distinctions; dhṛiteḥ—of determination; cha—and; eva—certainly; guṇataḥ tri-vidham—according to the three modes of material nature; śhṛiṇu—hear; prochyamānam—described; aśheṣheṇa—in detail; pṛithaktvena—distinctly; dhanañjaya—conqueror of wealth, Arjun\n",
+      "meaning": "Hear now, O Arjuna, the threefold division of Buddhi (reason) and Dhrti (fortitude) according to the Gunas, to be fully and severally set forth."
+    },
+    {
+      "id": 653,
+      "verseNumber": 30,
+      "text": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये।बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी।।18.30।।",
+      "transliteration": "pravṛittiṁ cha nivṛittiṁ cha kāryākārye bhayābhaye\nbandhaṁ mokṣhaṁ cha yā vetti buddhiḥ sā pārtha sāttvikī\n",
+      "wordMeanings": "pravṛittim—activities; cha—and; nivṛittim—renuncation from action; cha—and; kārya—proper action; akārye—improper action; bhaya—fear; abhaye—without fear; bandham—what is binding; mokṣham—what is liberating; cha—and; yā—which; vetti—understands; buddhiḥ—intellect; sā—that; pārtha—son of Pritha; sāttvikī—in the nature of goodness\n",
+      "meaning": "That Buddhi, O Arjuna, which knows activity and renunciation, what should be done and what should not be done, fear and fearlessness, bondage and release—that Buddhi is Sattvika."
+    },
+    {
+      "id": 654,
+      "verseNumber": 31,
+      "text": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च।अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी।।18.31।।",
+      "transliteration": "yayā dharmam adharmaṁ cha kāryaṁ chākāryam eva cha\nayathāvat prajānāti buddhiḥ sā pārtha rājasī\n",
+      "wordMeanings": "yayā—by which; dharmam—righteousness; adharmam—unrighteousness; cha—and; kāryam—right conduct; cha—and; akāryam—wrong conduct; eva—certainly; cha—and; ayathā-vat—confused; prajānāti—distinguish; buddhiḥ—intellect; sā—that; pārtha—Arjun, the son of Pritha; rājasī—in the mode of passion\n",
+      "meaning": "The Buddhi that gives an erroneous knowledge of Dharma and Adharma (its opposite) and also of what should be done and what should not be done, O Arjuna, is Rajasic."
+    },
+    {
+      "id": 655,
+      "verseNumber": 32,
+      "text": "अधर्मं धर्ममिति या मन्यते तमसाऽऽवृता।सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी।।18.32।।",
+      "transliteration": "adharmaṁ dharmam iti yā manyate tamasāvṛitā\nsarvārthān viparītānśh cha buddhiḥ sā pārtha tāmasī\n",
+      "wordMeanings": "adharmam—irreligion; dharmam—religion; iti—thus; yā—which; manyate—imagines; tamasa-āvṛitā—shrouded in darkness; sarva-arthān—all things; viparītān—opposite; cha—and; buddhiḥ—intellect; sā—that; pārtha—Arjun, the son of Pritha; tāmasī—of the nature of ignorance\n",
+      "meaning": "That Buddhi, O Arjuna, which, enveloped in darkness, regards Adharma as Dharma and reverses every value, is Tamasika."
+    },
+    {
+      "id": 656,
+      "verseNumber": 33,
+      "text": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः।योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी।।18.33।।",
+      "transliteration": "dhṛityā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ\nyogenāvyabhichāriṇyā dhṛitiḥ sā pārtha sāttvikī\n",
+      "wordMeanings": "dhṛityā—by determining; yayā—which; dhārayate—sustains; manaḥ—of the mind; prāṇa—life-airs; indriya—senses; kriyāḥ—activities; yogena—through Yog; avyabhichāriṇyā—with steadfastness; dhṛitiḥ—determination; sā—that; pārtha—Arjun, the son of Pritha; sāttvikī—in the mode of goodness\n",
+      "meaning": "That fortitude, by which one maintains the unwavering activities of the mind and vital force, and these sense-organs, through yoga—that fortitude is of the nature of sattva."
+    },
+    {
+      "id": 657,
+      "verseNumber": 34,
+      "text": "यया तु धर्मकामार्थान् धृत्या धारयतेऽर्जुन।प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी।।18.34।।",
+      "transliteration": "yayā tu dharma-kāmārthān dhṛityā dhārayate ‘rjuna\nprasaṅgena phalākāṅkṣhī dhṛitiḥ sā pārtha rājasī\n",
+      "wordMeanings": "yayā—by which; tu—but; dharma-kāma-arthān—duty, pleasures, and wealth; dhṛityā—through steadfast will; dhārayate—holds; arjuna—Arjun; prasaṅgena—due of attachment; phala-ākāṅkṣhī—desire for rewards; dhṛitiḥ—determination; sā—that; pārtha—Arjun, the son of Pritha; rājasī—in the mode of passion\n",
+      "meaning": "That dhṛti, O Arjuna, by which one, who is desirous of fruits, longs for them with intense attachment and holds fast to duty, desire, and wealth—that dhṛti is rajasika."
+    },
+    {
+      "id": 658,
+      "verseNumber": 35,
+      "text": "यया स्वप्नं भयं शोकं विषादं मदमेव च।न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी।।18.35।।",
+      "transliteration": "yayā svapnaṁ bhayaṁ śhokaṁ viṣhādaṁ madam eva cha\nna vimuñchati durmedhā dhṛitiḥ sā pārtha tāmasī\n",
+      "wordMeanings": "yayā—in which; svapnam—dreaming; bhayam—fearing; śhokam—grieving; viṣhādam—despair; madam—conceit; eva—indeed; cha—and; na—not; vimuñchati—give up; durmedhā—unintelligent; dhṛitiḥ—resolve; sā—that; pārtha—Arjun, the son of Pritha; tāmasī—in the mode of ignorance\n",
+      "meaning": "That Dhrti, by which a foolish person does not give up sleep, fear, grief, depression, and passion, O Arjuna, is of the nature of Tamas."
+    },
+    {
+      "id": 659,
+      "verseNumber": 36,
+      "text": "सुखं त्विदानीं त्रिविधं श्रृणु मे भरतर्षभ।अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति।।18.36।।",
+      "transliteration": "sukhaṁ tv idānīṁ tri-vidhaṁ śhṛiṇu me bharatarṣhabha\nabhyāsād ramate yatra duḥkhāntaṁ cha nigachchhati\n yat tad agre viṣham iva pariṇāme ‘mṛitopamam\ntat sukhaṁ sāttvikaṁ proktam ātma-buddhi-prasāda-jam\n",
+      "wordMeanings": "sukham—happiness; tu—but; idānīm—now; tri-vidham—of three kinds; śhṛiṇu—hear; me—from me; bharata-ṛiṣhabha—Arjun, the best of the Bharatas; abhyāsāt—by practice; ramate—rejoices; yatra—in which; duḥkha-antam—end of all suffering; cha—and; nigachchhati—reaches\n yat—which; tat—that; agre—at first; viṣham iva—like poison; pariṇāme—in the end; amṛita-upamam—like nectar; tat—that; sukham—happiness; sāttvikam—in the mode of goodness; proktam—is said to be; ātma-buddhi—situated in self-knowledge; prasāda-jam—generated by the pure intellect\n",
+      "meaning": "Now hear from Me, O Arjuna, the threefold division of pleasure৷৷ that in which one rejoices through long practice and in which one comes to the end of pain."
+    },
+    {
+      "id": 660,
+      "verseNumber": 37,
+      "text": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम्।तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्।।18.37।।",
+      "transliteration": "yat  tad agre    viṣam   iva pariṇāme    'mṛtopamam  tat sukhaṁ  sāttvikaṁ   proktam ātma-buddhi-prasāda-jam",
+      "wordMeanings": "yat—that   which;  tat—that;   agre—in the beginning;  viṣam   iva—like    poison; pariṇāme—at the end;    amṛta—nectar;   upamam—compared to; tat—that;   sukham—happiness;   sāttvikam—in    the mode    of  goodness;   proktam—is   said;    ātma—self;    buddhi—intelligence;    prasāda-jam—satisfactory.",
+      "meaning": "That which, at first, is like a poison but becomes like an elixir in the end, born from the serene state of mind focused on the Self—such pleasure is said to be Sattvika."
+    },
+    {
+      "id": 661,
+      "verseNumber": 38,
+      "text": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्।परिणामे विषमिव तत्सुखं राजसं स्मृतम्।।18.38।।",
+      "transliteration": "viṣhayendriya-sanyogād yat tad agre ’mṛitopamam\npariṇāme viṣham iva tat sukhaṁ rājasaṁ smṛitam\n",
+      "wordMeanings": "viṣhaya—with the sense objects; indriya—the senses; sanyogāt—from the contact; yat—which; tat—that; agre—at first; amṛita-upamam—like nectar; pariṇāme—at the end; viṣham iva—like poison; tat—that; sukham—happiness; rājasam—in the mode of passion; smṛitam—is said to be\n",
+      "meaning": "That pleasure which arises from the contact of senses with their objects, which is like elixir at first but like poison in the end, is said to be Rajasic."
+    },
+    {
+      "id": 662,
+      "verseNumber": 39,
+      "text": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः।निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्।।18.39।।",
+      "transliteration": "yad agre chānubandhe cha sukhaṁ mohanam ātmanaḥ\nnidrālasya-pramādotthaṁ tat tāmasam udāhṛitam\n",
+      "wordMeanings": "yat—which; agre—from beginning; cha—and; anubandhe—to end; cha—and; sukham—happiness; mohanam—illusory; ātmanaḥ—of the self; nidrā—sleep; ālasya—indolence; pramāda—negligence; uttham—derived from; tat—that; tāmasam—in the mode of ignorance; udāhṛitam—is said to be\n",
+      "meaning": "That pleasure which, at the beginning and end, deludes the self, through sleep, sloth, and error, is declared to be tamasic."
+    },
+    {
+      "id": 663,
+      "verseNumber": 40,
+      "text": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः।सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्ित्रभिर्गुणैः।।18.40।।",
+      "transliteration": "na tad asti pṛithivyāṁ vā divi deveṣhu vā punaḥ\nsattvaṁ prakṛiti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ\n",
+      "wordMeanings": "na—no; tat—that; asti—exists; pṛithivyām—on earth; vā—or; divi—the higher celestial abodes; deveṣhu—amongst the celestial gods; vā—or; punaḥ—again; sattvam—existence; prakṛiti-jaiḥ—born of material nature; muktam—liberated; yat—that; ebhiḥ—from the influence of these; syāt—is; tribhiḥ—three; guṇaiḥ—modes of material nature\n",
+      "meaning": "There is no creature, on earth or among the gods in heaven, that is exempt from these three Gunas born of Prakrti."
+    },
+    {
+      "id": 664,
+      "verseNumber": 41,
+      "text": "ब्राह्मणक्षत्रियविशां शूद्राणां च परंतप।कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः।।18.41।।",
+      "transliteration": "brāhmaṇa-kṣhatriya-viśhāṁ śhūdrāṇāṁ cha parantapa\nkarmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ\n",
+      "wordMeanings": "brāhmaṇa—of the priestly class; kṣhatriya—the warrior and administrative class; viśhām—the mercantile and farming class; śhūdrāṇām—of the worker class; cha—and; parantapa—Arjun, subduer of the enemies; karmāṇi—duties; pravibhaktāni—distributed; svabhāva-prabhavaiḥ-guṇaiḥ—work based on one’s nature and guṇas\n",
+      "meaning": "The duties of the Brahmanas, Ksatriyas, Vaisyas, and Sudras are clearly divided, O Arjuna, according to their Gunas, born of their nature."
+    },
+    {
+      "id": 665,
+      "verseNumber": 42,
+      "text": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च।ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्।।18.42।।",
+      "transliteration": "śhamo damas tapaḥ śhauchaṁ kṣhāntir ārjavam eva cha\njñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam\n",
+      "wordMeanings": "śhamaḥ—tranquility; damaḥ—restraint; tapaḥ—austerity; śhaucham—purity; kṣhāntiḥ—patience; ārjavam—integrity; eva—certainly; cha—and; jñānam—knowledge; vijñānam—wisdom; āstikyam—belief in a hereafter; brahma—of the priestly class; karma—work; svabhāva-jam—born of one’s intrinsic qualities\n",
+      "meaning": "The control of the senses and mind, austerity, purity, forbearance, uprightness, knowledge, special knowledge, and faith—all these constitute the duty of a Brahmana, born of his inherent nature."
+    },
+    {
+      "id": 666,
+      "verseNumber": 43,
+      "text": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्।।18.43।।",
+      "transliteration": "śhauryaṁ tejo dhṛitir dākṣhyaṁ yuddhe chāpy apalāyanam\ndānam īśhvara-bhāvaśh cha kṣhātraṁ karma svabhāva-jam\n",
+      "wordMeanings": "śhauryam—valor; tejaḥ—strength; dhṛitiḥ—fortitude; dākṣhyam yuddhe—skill in weaponry; cha—and; api—also; apalāyanam—not fleeing; dānam—large-heartedness; īśhvara—leadership; bhāvaḥ—qualities; cha—and; kṣhātram—of the warrior and administrative class; karma—work; svabhāva-jam—born of one’s intrinsic qualities\n",
+      "meaning": "Valor, invincibility, steadiness, dexterity, and not fleeing in battle, generosity, and regality are the duties of a Kshatriya, born of his inherent nature."
+    },
+    {
+      "id": 667,
+      "verseNumber": 44,
+      "text": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्।।18.44।।",
+      "transliteration": "kṛiṣhi-gau-rakṣhya-vāṇijyaṁ vaiśhya-karma svabhāva-jam\nparicharyātmakaṁ karma śhūdrasyāpi svabhāva-jam\n",
+      "wordMeanings": "kṛiṣhi—agriculture; gau-rakṣhya—dairy farming; vāṇijyam—commerce; vaiśhya—of the mercantile and farming class; karma—work; svabhāva-jam—born of one’s intrinsic qualities; paricharyā—serving through work; ātmakam—natural; karma—duty; śhūdrasya—of the worker class; api—and; svabhāva-jam—born of one’s intrinsic qualities\n",
+      "meaning": "Agriculture, cattle-breeding, and trade are the duties of the Vaisya, born of their nature. And the duty of a Sudra is one of service, born of their nature."
+    },
+    {
+      "id": 668,
+      "verseNumber": 45,
+      "text": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः।स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु।।18.45।।",
+      "transliteration": "sve sve karmaṇy abhirataḥ sansiddhiṁ labhate naraḥ\nsva-karma-nirataḥ siddhiṁ yathā vindati tach chhṛiṇu\n",
+      "wordMeanings": "sve sve—respectively; karmaṇi—work; abhirataḥ—fulfilling; sansiddhim—perfection; labhate—achieve; naraḥ—a person; sva-karma—to one’s own prescribed duty; nirataḥ—engaged; siddhim—perfection; yathā—as; vindati—attains; tat—that; śhṛiṇu—hear\n",
+      "meaning": "Devoting oneself to one's duty, one attains perfection. Hear now how one devoted to their own duty attains perfection."
+    },
+    {
+      "id": 669,
+      "verseNumber": 46,
+      "text": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्।स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः।।18.46।।",
+      "transliteration": "yataḥ pravṛittir bhūtānāṁ yena sarvam idaṁ tatam\nsva-karmaṇā tam abhyarchya siddhiṁ vindati mānavaḥ\n",
+      "wordMeanings": "yataḥ—from whom; pravṛittiḥ—have come into being; bhūtānām—of all living entities; yena—by whom; sarvam—all; idam—this; tatam—pervaded; sva-karmaṇā—by one’s natural occupation; tam—him; abhyarchya—by worshipping; siddhim—perfection; vindati—attains; mānavaḥ—a person\n",
+      "meaning": "From whom all beings arise and by whom all this is pervaded—by worshipping Him with one's own duty, one reaches perfection."
+    },
+    {
+      "id": 670,
+      "verseNumber": 47,
+      "text": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्।।18.47।।",
+      "transliteration": "śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt\nsvabhāva-niyataṁ karma kurvan nāpnoti kilbiṣham\n",
+      "wordMeanings": "śhreyān—better; swa-dharmaḥ—one’s own prescribed occupational duty; viguṇaḥ—imperfectly done; para-dharmāt—than another’s dharma; su-anuṣhṭhitāt—perfectly done; svabhāva-niyatam—according to one’s innate nature; karma—duty; kurvan—by performing; na āpnoti—does not incur; kilbiṣham—sin\n",
+      "meaning": "Better is one's own duty, though ill done, than the duty of another, though well-performed. When one does the duty ordained by their own nature, they incur no stain."
+    },
+    {
+      "id": 671,
+      "verseNumber": 48,
+      "text": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्।सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः।।18.48।।",
+      "transliteration": "saha-jaṁ karma kaunteya sa-doṣham api na tyajet\nsarvārambhā hi doṣheṇa dhūmenāgnir ivāvṛitāḥ\n",
+      "wordMeanings": "saha-jam—born of one’s nature; karma—duty; kaunteya—Arjun, the son of Kunti; sa-doṣham—with defects; api—even if; na tyajet—one should not abandon; sarva-ārambhāḥ—all endeavors; hi—indeed; doṣheṇa—with evil; dhūmena—with smoke; agniḥ—fire; iva—as; āvṛitāḥ—veiled\n",
+      "meaning": "One should not relinquish one's work, O Arjuna, though it may be imperfect; for, all endeavors are enveloped by imperfections as fire is by smoke."
+    },
+    {
+      "id": 672,
+      "verseNumber": 49,
+      "text": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति।।18.49।।",
+      "transliteration": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛihaḥ\nnaiṣhkarmya-siddhiṁ paramāṁ sannyāsenādhigachchhati\n",
+      "wordMeanings": "asakta-buddhiḥ—those whose intellect is unattached; sarvatra—everywhere; jita-ātmā—who have mastered their mind; vigata-spṛihaḥ—free from desires; naiṣhkarmya-siddhim—state of actionlessness; paramām—highest; sanyāsena—by the practice of renunciation; adhigachchhati—attain\n",
+      "meaning": "He whose understanding is unattached on all sides, whose self is controlled, who is free from desires—he attains the supreme perfection transcending all activity through renunciation."
+    },
+    {
+      "id": 673,
+      "verseNumber": 50,
+      "text": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे।समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा।।18.50।।",
+      "transliteration": "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me\nsamāsenaiva kaunteya niṣhṭhā jñānasya yā parā\n",
+      "wordMeanings": "siddhim—perfection; prāptaḥ—attained; yathā—how; brahma—Brahman; tathā—also; āpnoti—attain; nibodha—hear; me—from me; samāsena—briefly; eva—indeed; kaunteya—Arjun, the son of Kunti; niṣhṭhā—firmly fixed; jñānasya—of knowledge; yā—which; parā—transcendental\n",
+      "meaning": "Learn from me, O Arjuna, in brief how one who has attained perfection attains the Brahman—the supreme consummation of knowledge."
+    },
+    {
+      "id": 674,
+      "verseNumber": 51,
+      "text": "बुद्ध्या विशुद्धया युक्तो धृत्याऽऽत्मानं नियम्य च।शब्दादीन् विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च।।18.51।।",
+      "transliteration": "buddhyā viśhuddhayā yukto dhṛityātmānaṁ niyamya cha\nśhabdādīn viṣhayāns tyaktvā rāga-dveṣhau vyudasya cha\n",
+      "wordMeanings": "buddhyā—intellect; viśhuddhayā—purified; yuktaḥ—endowed with; dhṛityā—by determination; ātmānam—the intellect; niyamya—restraining; cha—and; śhabda-ādīn viṣhayān—sound and other objects of the senses; tyaktvā—abandoning; rāga-dveṣhau—attachment and aversion; vyudasya—casting aside; cha—and;\n",
+      "meaning": "Endowed with a purified understanding, subduing the mind with steadiness, relinquishing sound and other objects of the senses and casting aside love and hate;"
+    },
+    {
+      "id": 675,
+      "verseNumber": 52,
+      "text": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः।ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः।।18.52।।",
+      "transliteration": "vivikta-sevī laghv-āśhī yata-vāk-kāya-mānasaḥ\ndhyāna-yoga-paro nityaṁ vairāgyaṁ samupāśhritaḥ\n",
+      "wordMeanings": "vivikta-sevī—relishing solitude; laghu-āśhī—eating light; yata—controls; vāk—speech; kāya—body; mānasaḥ—and mind; dhyāna-yoga-paraḥ—engaged in meditation; nityam—always; vairāgyam—dispassion; samupāśhritaḥ—having taken shelter of;\n",
+      "meaning": "Resorting to solitude, eating sparingly, restraining speech, body, and mind, ever engaged in the yoga of meditation and taking refuge in dispassion;"
+    },
+    {
+      "id": 676,
+      "verseNumber": 53,
+      "text": "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते।।18.53।।",
+      "transliteration": "ahankāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham\nvimuchya nirmamaḥ śhānto brahma-bhūyāya kalpate\n",
+      "wordMeanings": "ahankāram—egotism; balam—violence; darpam—arrogance; kāmam—desire; krodham—anger; parigraham—selfishness; vimuchya—being freed from; nirmamaḥ—without possessiveness of property; śhāntaḥ—peaceful; brahma-bhūyāya—union with Brahman; kalpate—is fit\n",
+      "meaning": "Forsaking egoism, power, pride, desire, wrath, and possessions, with no feeling of 'mine' and tranquil, he becomes worthy of the state of Brahman."
+    },
+    {
+      "id": 677,
+      "verseNumber": 54,
+      "text": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति।समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्।।18.54।।",
+      "transliteration": "brahma-bhūtaḥ prasannātmā na śhochati na kāṅkṣhati\nsamaḥ sarveṣhu bhūteṣhu mad-bhaktiṁ labhate parām\n",
+      "wordMeanings": "brahma-bhūtaḥ—one situated in Brahman; prasanna-ātmā—mentally serene; na—neither; śhochati—grieving; na—nor; kāṅkṣhati—desiring; samaḥ—equitably disposed; sarveṣhu—toward all; bhūteṣhu—living beings; mat-bhaktim—devotion to me; labhate—attains; parām—supreme\n",
+      "meaning": "Having realized the state of Brahman, tranquil, he neither grieves nor craves. Regarding all beings alike, he attains supreme devotion to Me."
+    },
+    {
+      "id": 678,
+      "verseNumber": 55,
+      "text": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः।ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्।।18.55।।",
+      "transliteration": "bhaktyā mām abhijānāti yāvān yaśh chāsmi tattvataḥ\ntato māṁ tattvato jñātvā viśhate tad-anantaram\n",
+      "wordMeanings": "bhaktyā—by loving devotion; mām—me; abhijānāti—one comes to know; yāvān—as much as; yaḥ cha asmi—as I am; tattvataḥ—in truth; tataḥ—then; mām—me; tattvataḥ—in truth; jñātvā—having known; viśhate—enters; tat-anantaram—thereafter\n",
+      "meaning": "Through devotion, he comes to know Me fully—who and what I am in reality, who I am and how I am. Knowing Me thus in truth, he forthwith enters into Me."
+    },
+    {
+      "id": 679,
+      "verseNumber": 56,
+      "text": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः।मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्।।18.56।।",
+      "transliteration": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśhrayaḥ\nmat-prasādād avāpnoti śhāśhvataṁ padam avyayam\n",
+      "wordMeanings": "sarva—all; karmāṇi—actions; api—though; sadā—always; kurvāṇaḥ—performing; mat-vyapāśhrayaḥ—take full refuge in me; mat-prasādāt—by my grace; avāpnoti—attain; śhāśhvatam—the eternal; padam—abode; avyayam—imperishable\n",
+      "meaning": "Taking refuge in Me and performing all works constantly, one, by My grace, attains the eternal and immutable abode."
+    },
+    {
+      "id": 680,
+      "verseNumber": 57,
+      "text": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः।बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव।।18.57।।",
+      "transliteration": "chetasā sarva-karmāṇi mayi sannyasya mat-paraḥ\nbuddhi-yogam upāśhritya mach-chittaḥ satataṁ bhava\n",
+      "wordMeanings": "chetasā—by consciousness; sarva-karmāṇi—every activity; mayi—to me; sannyasya—dedicating; mat-paraḥ—having me as the supreme goal; buddhi-yogam—having the intellect united with God; upāśhritya—taking shelter of; mat-chittaḥ—consciousness absorbed in me; satatam—always; bhava—be\n",
+      "meaning": "Surrender all your actions to Me with your mind, keep Me as your goal, and practice Buddhi-yoga, focusing your thoughts on Me always."
+    },
+    {
+      "id": 681,
+      "verseNumber": 58,
+      "text": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि।अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि।।18.58।।",
+      "transliteration": "mach-chittaḥ sarva-durgāṇi mat-prasādāt tariṣhyasi\natha chet tvam ahankārān na śhroṣhyasi vinaṅkṣhyasi\n",
+      "wordMeanings": "mat-chittaḥ—by always remembering me; sarva—all; durgāṇi—obstacles; mat-prasādāt—by my grace; tariṣhyasi—you shall overcome; atha—but; chet—if; tvam—you; ahankārāt—due to pride; na śhroṣhyasi—do not listen; vinaṅkṣhyasi—you will perish\n",
+      "meaning": "Focusing your thoughts on Me, you shall, by My grace, cross over all difficulties. If, however, out of self-conceit, you do not heed Me, you will perish."
+    },
+    {
+      "id": 682,
+      "verseNumber": 59,
+      "text": "यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे।मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति।।18.59।।",
+      "transliteration": "yad ahankāram āśhritya na yotsya iti manyase\nmithyaiṣha vyavasāyas te prakṛitis tvāṁ niyokṣhyati\n",
+      "wordMeanings": "yat—if; ahankāram—motivated by pride; āśhritya—taking shelter; na yotsye—I shall not fight; iti—thus; manyase—you think; mithyā eṣhaḥ—this is all false; vyavasāyaḥ—determination; te—your; prakṛitiḥ—material nature; tvām—you; niyokṣhyati—will engage\n",
+      "meaning": "If, in your self-conceit, you think, 'I will not fight,' your resolve is futile. Nature will compel you."
+    },
+    {
+      "id": 683,
+      "verseNumber": 60,
+      "text": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा।कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्।।18.60।।",
+      "transliteration": "swbhāva-jena kaunteya nibaddhaḥ svena karmaṇā\nkartuṁ nechchhasi yan mohāt kariṣhyasy avaśho ’pi tat\n",
+      "wordMeanings": "swabhāva-jena—born of one’s own material nature; kaunteya—Arjun, the son of Kunti; nibaddhaḥ—bound; svena—by your own; karmaṇā—actions; kartum—to do; na—not; ichchhasi—you wish; yat—which; mohāt—out of delusion; kariṣhyasi—you will do; avaśhaḥ—helplessly; api—even though; tat—that\n",
+      "meaning": "O Arjuna, bound by your own duty born out of your own inner disposition, and having no control over your own will, you will be compelled to do that very thing which you now do not desire to do through delusion."
+    },
+    {
+      "id": 684,
+      "verseNumber": 61,
+      "text": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया।।18.61।।",
+      "transliteration": "īśhvaraḥ sarva-bhūtānāṁ hṛid-deśhe ‘rjuna tiṣhṭhati\nbhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā\n",
+      "wordMeanings": "īśhvaraḥ—the Supreme Lord; sarva-bhūtānām—in all living being; hṛit-deśhe—in the hearts; arjuna—Arjun; tiṣhṭhati—dwells; bhrāmayan—causing to wander; sarva-bhūtāni—all living beings; yantra ārūḍhani—seated on a machine; māyayā—made of the material energy\n",
+      "meaning": "The Lord, O Arjuna, abides in the heart of every being, spinning them round and round, as if mounted on a wheel, by His power."
+    },
+    {
+      "id": 685,
+      "verseNumber": 62,
+      "text": "तमेव शरणं गच्छ सर्वभावेन भारत।तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्।।18.62।।",
+      "transliteration": "tam eva śharaṇaṁ gachchha sarva-bhāvena bhārata\ntat-prasādāt parāṁ śhāntiṁ sthānaṁ prāpsyasi śhāśhvatam\n",
+      "wordMeanings": "tam—unto him; eva—only; śharaṇam gachchha—surrender; sarva-bhāvena—whole-heartedly; bhārata—Arjun, the son of Bharat; tat-prasādāt—by his grace; parām—supreme; śhāntim—peace; sthānam—the abode; prāpsyasi—you will attain; śhāśhvatam—eternal\n",
+      "meaning": "Seek refuge in Him alone, O Arjuna, with the entirety of your being. By His grace, you shall find supreme peace and an eternal abode."
+    },
+    {
+      "id": 686,
+      "verseNumber": 63,
+      "text": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया।विमृश्यैतदशेषेण यथेच्छसि तथा कुरु।।18.63।।",
+      "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā\nvimṛiśhyaitad aśheṣheṇa yathechchhasi tathā kuru\n",
+      "wordMeanings": "iti—thus; te—to you; jñānam—knowledge; ākhyātam—explained; guhyāt—than secret knowledge; guhya-taram—still more secret knowledge; mayā—by me; vimṛiśhya—pondering; etat—on this; aśheṣheṇa—completely; yathā—as; ichchhasi—you wish; tathā—so; kuru—do\n",
+      "meaning": "Thus, the knowledge, the mystery of mysteries, has been declared to you by Me. Reflecting on it fully, do as you will."
+    },
+    {
+      "id": 687,
+      "verseNumber": 64,
+      "text": "सर्वगुह्यतमं भूयः श्रृणु मे परमं वचः।इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्।।18.64।।",
+      "transliteration": "sarva-guhyatamaṁ bhūyaḥ śhṛiṇu me paramaṁ vachaḥ\niṣhṭo ‘si me dṛiḍham iti tato vakṣhyāmi te hitam\n",
+      "wordMeanings": "sarva-guhya-tamam—the most confidential of all; bhūyaḥ—again; śhṛiṇu—hear; me—by me; paramam—supreme; vachaḥ—instruction; iṣhṭaḥ asi—you are dear; me—to me; dṛiḍham—very; iti—thus; tataḥ—because; vakṣhyāmi—I am speaking; te—for your; hitam—benefit\n",
+      "meaning": "Hear again My supreme word, the most secret of all; as I am exceedingly fond of you, I am telling you what is good for you."
+    },
+    {
+      "id": 688,
+      "verseNumber": 65,
+      "text": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे।।18.65।।",
+      "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru\nmām evaiṣhyasi satyaṁ te pratijāne priyo ‘si me\n",
+      "wordMeanings": "mat-manāḥ—thinking of me; bhava—be; mat-bhaktaḥ—my devotee; mat-yājī—worship me; mām—to me; namaskuru—offer obeisance; mām—to me; eva—certainly; eṣhyasi—you will come; satyam—truly; te—to you; pratijāne—I promise; priyaḥ—dear; asi—you are; me—to me\n",
+      "meaning": "Focus your mind on Me. Be My devotee. Worship Me. Prostrate before Me. You will come to Me alone. I promise you truly; for you are dear to Me."
+    },
+    {
+      "id": 689,
+      "verseNumber": 66,
+      "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः।।18.66।।",
+      "transliteration": "sarva-dharmān parityajya mām ekaṁ śharaṇaṁ vraja\nahaṁ tvāṁ sarva-pāpebhyo mokṣhayiṣhyāmi mā śhuchaḥ\n",
+      "wordMeanings": "sarva-dharmān—all varieties of dharmas; parityajya—abandoning; mām—unto me; ekam—only; śharaṇam—take refuge; vraja—take; aham—I; tvām—you; sarva—all; pāpebhyaḥ—from sinful reactions; mokṣhayiṣhyāmi—shall liberate; mā—do not; śhuchaḥ—fear\n",
+      "meaning": "Relinquishing all Dharmas completely, seek Me alone for refuge. I will release you from all sins; grieve not."
+    },
+    {
+      "id": 690,
+      "verseNumber": 67,
+      "text": "इदं ते नातपस्काय नाभक्ताय कदाचन।न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति।।18.67।।",
+      "transliteration": "idaṁ te nātapaskyāya nābhaktāya kadāchana\nna chāśhuśhruṣhave vāchyaṁ na cha māṁ yo ‘bhyasūtayi\n",
+      "wordMeanings": "idam—this; te—by you; na—never; atapaskāya—to those who are not austere; na—never; abhaktāya—to those who are not devoted; kadāchana—at any time; na—never; cha—also; aśhuśhrūṣhave—to those who are averse to listening (to spiritual topics); vāchyam—to be spoken; na—never; cha—also; mām—toward me; yaḥ—who; abhyasūyati—those who are envious\n",
+      "meaning": "Never should this be told by you to one who is not austere, who is not a devotee, nor to one who has no desire to listen, nor certainly to him who speaks ill of Me."
+    },
+    {
+      "id": 691,
+      "verseNumber": 68,
+      "text": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति।भक्ितं मयि परां कृत्वा मामेवैष्यत्यसंशयः।।18.68।।",
+      "transliteration": "ya idaṁ paramaṁ guhyaṁ mad-bhakteṣhv abhidhāsyati\nbhaktiṁ mayi parāṁ kṛitvā mām evaiṣhyaty asanśhayaḥ\n",
+      "wordMeanings": "yaḥ—who; idam—this; paramam—most; guhyam—confidential knowledge; mat-bhakteṣhu—amongst my devotees; abhidhāsyati—teaches; bhaktim—greatest act of love; mayi—to me; parām—transcendental; kṛitvā—doing; mām—to me; eva—certainly; eṣhyati—comes; asanśhayaḥ—without doubt\n",
+      "meaning": "He who proclaims this supreme mystery among My devotees shall come to Me, acquiring supreme devotion towards Me. There is no doubt about this."
+    },
+    {
+      "id": 692,
+      "verseNumber": 69,
+      "text": "न च तस्मान्मनुष्येषु कश्िचन्मे प्रियकृत्तमः।भविता न च मे तस्मादन्यः प्रियतरो भुवि।।18.69।।",
+      "transliteration": "na cha tasmān manuṣhyeṣhu kaśhchin me priya-kṛittamaḥ\nbhavitā na cha me tasmād anyaḥ priyataro bhuvi\n",
+      "wordMeanings": "na—no; cha—and; tasmāt—than them; manuṣhyeṣhu—amongst human beings; kaśhchit—anyone; me—to me; priya-kṛit-tamaḥ—more dear; bhavitā—will be; na—never; cha—and; me—to me; tasmāt—than them; anyaḥ—another; priya-taraḥ—dearer; bhuvi—on this earth\n",
+      "meaning": "There is no one among men who does dearer service to Me than him. Nor shall there be anyone on earth dearer to Me than him."
+    },
+    {
+      "id": 693,
+      "verseNumber": 70,
+      "text": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः।ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः।।18.70।।",
+      "transliteration": "adhyeṣhyate cha ya imaṁ dharmyaṁ saṁvādam āvayoḥ\njñāna-yajñena tenāham iṣhṭaḥ syām iti me matiḥ\n",
+      "wordMeanings": "adhyeṣhyate—study; cha—and; yaḥ—who; imam—this; dharmyam—sacred; saṁvādam—dialogue; āvayoḥ—of ours; jñāna—of knowledge; yajñena-tena—through the sacrifice of knowledge; aham—I; iṣhṭaḥ—worshipped; syām—shall be; iti—such; me—my; matiḥ—opinion\n",
+      "meaning": "And he who will study our dialogue, which is consistent with Dharma, by him I shall be worshipped through the sacrifice of knowledge; that is My view."
+    },
+    {
+      "id": 694,
+      "verseNumber": 71,
+      "text": "श्रद्धावाननसूयश्च श्रृणुयादपि यो नरः।सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्।।18.71।।",
+      "transliteration": "śhraddhāvān anasūyaśh cha śhṛiṇuyād api yo naraḥ\nso ‘pi muktaḥ śhubhāl lokān prāpnuyāt puṇya-karmaṇām\n",
+      "wordMeanings": "śhraddhā-vān—faithful; anasūyaḥ—without envy; cha—and; śhṛiṇuyāt—listen; api—certainly; yaḥ—who; naraḥ—a person; saḥ—that person; api—also; muktaḥ—liberated; śhubhān—the auspicious; lokān—abodes; prāpnuyāt—attain; puṇya-karmaṇām—of the pious\n",
+      "meaning": "And the man who listens to it with faith and without cavil, he too shall be released and shall reach the auspicious realms of those who have performed virtuous deeds."
+    },
+    {
+      "id": 695,
+      "verseNumber": 72,
+      "text": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा।कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय।।18.72।।",
+      "transliteration": "kachchid etach chhrutaṁ pārtha tvayaikāgreṇa chetasā\nkachchid ajñāna-sammohaḥ pranaṣhṭas te dhanañjaya\n",
+      "wordMeanings": "kachchit—whether; etat—this; śhrutam—heard; pārtha—Arjun, the son of Pritha; tvayā—by you; eka-agreṇa chetasā—with a concentrated mind; kachchit—whether; ajñāna—ignorance; sammohaḥ—delusion; pranaṣhṭaḥ—destroyed; te—your; dhanañjaya—Arjun, conqueror of wealth\n",
+      "meaning": "Have you heard this, O Arjuna, with a single-minded focus? Has your delusion, caused by ignorance, been dispelled?"
+    },
+    {
+      "id": 696,
+      "verseNumber": 73,
+      "text": "अर्जुन उवाचनष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत।स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव।।18.73।।",
+      "transliteration": "arjuna uvācha\nnaṣhṭo mohaḥ smṛitir labdhā tvat-prasādān mayāchyuta\nsthito ‘smi gata-sandehaḥ kariṣhye vachanaṁ tava\n",
+      "wordMeanings": "arjunaḥ uvācha—Arjun said; naṣhṭaḥ—dispelled; mohaḥ—illusion; smṛitiḥ—memory; labdhā—regained; tvat-prasādāt—by your grace; mayā—by me; achyuta—Shree Krishna, the infallible one; sthitaḥ—situated; asmi—I am; gata-sandehaḥ—free from doubts; kariṣhye—I shall act; vachanam—instructions; tava—your\n",
+      "meaning": "Arjuna said, \"My delusion has been destroyed, and, by Your grace, O Krsna, I have gained knowledge (Smrti). Freed from doubts, I stand steadfast, and I will fulfill Your will.\""
+    },
+    {
+      "id": 697,
+      "verseNumber": 74,
+      "text": "सञ्जय उवाचइत्यहं वासुदेवस्य पार्थस्य च महात्मनः।संवादमिममश्रौषमद्भुतं रोमहर्षणम्।।18.74।।",
+      "transliteration": "sañjaya uvācha\nity ahaṁ vāsudevasya pārthasya cha mahātmanaḥ\nsaṁvādam imam aśhrauṣham adbhutaṁ roma-harṣhaṇam\n",
+      "wordMeanings": "sañjayaḥ uvācha—Sanjay said; iti—thus; aham—I; vāsudevasya—of Shree Krishna; pārthasya—Arjun; cha—and; mahā-ātmanaḥ—the noble hearted soul; saṁvādam—conversation; imam—this; aśhrauṣham—have heard; adbhutam—wonderful; roma-harṣhaṇam—which causes the hair to stand on end\n",
+      "meaning": "Sanjaya said, Thus I have heard this wondrous dialogue between Vasudeva and the great-minded Arjuna, which makes my hair stand on end."
+    },
+    {
+      "id": 698,
+      "verseNumber": 75,
+      "text": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम्।योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्।।18.75।।",
+      "transliteration": "vyāsa-prasādāch chhrutavān etad guhyam ahaṁ param\nyogaṁ yogeśhvarāt kṛiṣhṇāt sākṣhāt kathayataḥ svayam\n",
+      "wordMeanings": "vyāsa-prasādāt—by the grace of Ved Vyas; śhrutavān—have heard; etat—this; guhyam—secret; aham—I; param—supreme; yogam—Yog; yoga-īśhvarāt—from the Lod of Yog; kṛiṣhṇāt—from Shree Krishna; sākṣhāt—directly; kathayataḥ—speaking; svayam—himself\n",
+      "meaning": "By the grace of Vyasa, I have heard this supreme mystery of Yoga, declared in person by Krsna, the Lord of Yoga."
+    },
+    {
+      "id": 699,
+      "verseNumber": 76,
+      "text": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम्।केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः।।18.76।।",
+      "transliteration": "rājan sansmṛitya sansmṛitya saṁvādam imam adbhutam\nkeśhavārjunayoḥ puṇyaṁ hṛiṣhyāmi cha muhur muhuḥ\n",
+      "wordMeanings": "rājan—King; sansmṛitya saṁsmṛitya—repeatedly recalling; saṁvādam—dialogue; imam—this; adbhutam—astonishing; keśhava-arjunayoḥ—between Lord Shree Krishna and Arjun; puṇyam—pious; hṛiṣhyāmi—I rejoice; cha—and; muhuḥ muhuḥ—repeatedly\n",
+      "meaning": "O King, remembering again and again this wondrous and auspicious dialogue between Sri Krishna and Arjuna, I rejoice time and again."
+    },
+    {
+      "id": 700,
+      "verseNumber": 77,
+      "text": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः।\nविस्मयो मे महान् राजन् हृष्यामि च पुनः पुनः।।18.77।।\n ",
+      "transliteration": "tach cha sansmṛitya saṁsmṛitya rūpam aty-adbhutaṁ hareḥ\nvismayo ye mahān rājan hṛiṣhyāmi cha punaḥ punaḥ\n",
+      "wordMeanings": "tat—that; cha—and; sansmṛitya saṁsmṛitya—remembering repeatedly; rūpam—cosmic form; ati—most; adbhutam—wonderful; hareḥ—of Lord Krishna; vismayaḥ—astonishment; me—my; mahān—great; rājan—King; hṛiṣhyāmi—I am thrilled with joy; cha—and; punaḥ punaḥ—over and over again\n",
+      "meaning": "And, remembering over and over again that most marvelous form of Hari, great is my amazement, O King, and I rejoice again and again."
+    },
+    {
+      "id": 701,
+      "verseNumber": 78,
+      "text": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम।।18.78।\n ",
+      "transliteration": "yatra yogeśhvaraḥ kṛiṣhṇo yatra pārtho dhanur-dharaḥ\ntatra śhrīr vijayo bhūtir dhruvā nītir matir mama\n",
+      "wordMeanings": "yatra—wherever; yoga-īśhvaraḥ—Shree Krishna, the Lord of Yog; kṛiṣhṇaḥ—Shree Krishna; yatra—wherever; pārthaḥ—Arjun, the son of Pritha; dhanuḥ-dharaḥ—the supreme archer; tatra—there; śhrīḥ—opulence; vijayaḥ—victory; bhūtiḥ—prosperity; dhruvā—unending; nītiḥ—righteousness; matiḥ mama—my opinion\n",
+      "meaning": "Wherever there is Sri Krsna, the Lord of Yoga, and Arjuna the archer, there is always fortune, victory, wealth, and sound morality. This is my firm conviction."
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "chapterNumber": 6,
+  "name": "ध्यानयोग",
+  "nameTranslation": "Dhyana Yoga",
+  "nameMeaning": "Path of Meditation",
+  "summary": "The sixth chapter of the Bhagavad Gita is \"Dhyana Yoga\". In this chapter, Krishna reveals the \"Yoga of Meditation\" and how to practise this Yoga. He discusses the role of action in preparing for Meditation, how performing duties in devotion purifies one's mind and heightens one's spiritual consciousness. He explains in detail the obstacles that one faces when trying to control their mind and the exact methods by which one can conquer their mind. He reveals how one can focus their mind on Paramatma and unite with the God.",
+  "summaryHindi": "भगवद गीता का छठा अध्याय ध्यान योग है। इस अध्याय में कृष्ण बताते हैं कि हम किस प्रकार ध्यान योग का अभ्यास कर सकते हैं। वे ध्यान की तैयारी में कर्म की भूमिका पर चर्चा करते हैं अथवा बताते हैं कि किस प्रकार भक्ति में किया गए कर्म मनुष्ये के मन को शुद्ध करते हैं और उसकी आध्यात्मिक चेतना की वृद्धि में सहायता करते हैं। वे उन बाधाओं का विस्तारपूर्वक वर्णन करते हैं जो कि मनुष्य को अपने दिमाग को नियंत्रित करते समय झेलनी पड़ती हैं अथवा उन सटीक तरीकों का वर्णन करते हैं जिनसे एक मनुष्य अपने दिमाग को जीत सकता है। उन्होंने प्रकट किया की हम किस प्रकार परमात्मा पर अपना ध्यान केंद्रित करके भगवान के साथ एक हो सकते हैं।",
+  "image": "assets/images/gita-105.jpg",
+  "audio": "assets/Bhagavad-gita06.mp3",
+  "verses": [
+    {
+      "id": 234,
+      "verseNumber": 1,
+      "text": "श्री भगवानुवाच\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः।।6.1।।\n ",
+      "transliteration": "śhrī bhagavān uvācha\nanāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ\nsa sannyāsī cha yogī cha na niragnir na chākriyaḥ\n",
+      "wordMeanings": "śhrī-bhagavān uvācha—the Supreme Lord said; anāśhritaḥ—not desiring; karma-phalam—results of actions; kāryam—obligatory; karma—work; karoti—perform; yaḥ—one who; saḥ—that person; sanyāsī—in the renounced order; cha—and; yogī—yogi; cha—and; na—not; niḥ—without; agniḥ—fire; na—not; cha—also; akriyaḥ—without activity\n",
+      "meaning": "The Lord said, \"He who performs works that ought to be done without seeking their fruits—he is a sannyasin and yogin, and not he who maintains no sacred fires and performs no actions.\""
+    },
+    {
+      "id": 235,
+      "verseNumber": 2,
+      "text": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव।\nन ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन।।6.2।।\n ",
+      "transliteration": "yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava\nna hyasannyasta-saṅkalpo yogī bhavati kaśhchana\n",
+      "wordMeanings": "yam—what; sanyāsam—renunciation; iti—thus; prāhuḥ—they say; yogam—yog; tam—that; viddhi—know; pāṇḍava—Arjun, the son of Pandu; na—not; hi—certainly; asannyasta—without giving up; saṅkalpaḥ—desire; yogī—a yogi; bhavati—becomes; kaśhchana—anyone\n",
+      "meaning": "That which is called Sannyasa (Jnana Yoga), know that to be Yoga (Karma Yoga), O Arjuna. For no one, among Karma Yogins, whose delusive identification of the body with the self has not been abandoned, becomes a true Karma Yogin."
+    },
+    {
+      "id": 236,
+      "verseNumber": 3,
+      "text": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते।\nयोगारूढस्य तस्यैव शमः कारणमुच्यते।।6.3।।\n ",
+      "transliteration": "ārurukṣhor muner yogaṁ karma kāraṇam uchyate\nyogārūḍhasya tasyaiva śhamaḥ kāraṇam uchyate\n",
+      "wordMeanings": "ārurukṣhoḥ—a beginner; muneḥ—of a sage; yogam—Yog; karma—working without attachment; kāraṇam—the cause; uchyate—is said; yoga ārūḍhasya—of those who are elevated in Yog; tasya—their; eva—certainly; śhamaḥ—meditation; kāraṇam—the cause; uchyate—is said\n",
+      "meaning": "Action is said to be the means for the sage who seeks to climb the heights of Yoga; but when he has climbed the heights of Yoga, tranquility is said to be the means."
+    },
+    {
+      "id": 237,
+      "verseNumber": 4,
+      "text": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते।\nसर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते।।6.4।।\n ",
+      "transliteration": "yadā hi nendriyārtheṣhu na karmasv-anuṣhajjate\nsarva-saṅkalpa-sannyāsī yogārūḍhas tadochyate\n",
+      "wordMeanings": "yadā—when; hi—certainly; na—not; indriya-artheṣhu—for sense-objects; na—not; karmasu—to actions; anuṣhajjate—is attachment; sarva-saṅkalpa—all desires for the fruits of actions; sanyāsī—renouncer; yoga-ārūḍhaḥ—elevated in the science of Yog; tadā—at that time; uchyate—is said\n",
+      "meaning": "For, when one loses attachment to the things of the senses and to actions, then they have abandoned all desires and are said to have climbed the heights of Yoga."
+    },
+    {
+      "id": 238,
+      "verseNumber": 5,
+      "text": "उद्धरेदात्मनाऽऽत्मानं नात्मानमवसादयेत्।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः।।6.5।।\n ",
+      "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet\nātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ\n",
+      "wordMeanings": "uddharet—elevate; ātmanā—through the mind; ātmānam—the self; na—not; ātmānam—the self; avasādayet—degrade; ātmā—the mind; eva—certainly; hi—indeed; ātmanaḥ—of the self; bandhuḥ—friend; ātmā—the mind; eva—certainly; ripuḥ—enemy; ātmanaḥ—of the self\n",
+      "meaning": "One should raise oneself by one's own mind and not allow oneself to sink; for the mind alone is the friend of the self, and the mind alone is the foe of the self."
+    },
+    {
+      "id": 239,
+      "verseNumber": 6,
+      "text": "बन्धुरात्माऽऽत्मनस्तस्य येनात्मैवात्मना जितः।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्।।6.6।।\n ",
+      "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ\nanātmanas tu śhatrutve vartetātmaiva śhatru-vat\n",
+      "wordMeanings": "bandhuḥ—friend; ātmā—the mind; ātmanaḥ—for the person; tasya—of him; yena—by whom; ātmā—the mind; eva—certainly; ātmanā—for the person; jitaḥ—conquered; anātmanaḥ—of those with unconquered mind; tu—but; śhatrutve—for an enemy; varteta—remains; ātmā—the mind; eva—as; śhatru-vat—like an enemy\n",
+      "meaning": "The mind is the friend of him by whom it has been conquered. But for him whose mind is not conquered, the mind, like an enemy, remains hostile."
+    },
+    {
+      "id": 240,
+      "verseNumber": 7,
+      "text": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः।।6.7।।\n ",
+      "transliteration": "jitātmanaḥ praśhāntasya paramātmā samāhitaḥ\nśhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ\n",
+      "wordMeanings": "jita-ātmanaḥ—one who has conquered one’s mind; praśhāntasya—of the peaceful; parama-ātmā—God; samāhitaḥ—steadfast; śhīta—in cold; uṣhṇa—heat; sukha—happiness; duḥkheṣhu—and distress; tathā—also; māna—in honor; apamānayoḥ—and dishonor\n",
+      "meaning": "Of him whose mind is conquered and who is serene, the great self is well-secured in heat and cold, in pleasure and pain, and in honor and dishonor."
+    },
+    {
+      "id": 241,
+      "verseNumber": 8,
+      "text": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः।\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः।।6.8।।\n ",
+      "transliteration": "jñāna-vijñāna-tṛiptātmā kūṭa-stho vijitendriyaḥ\nyukta ityuchyate yogī sama-loṣhṭāśhma-kāñchanaḥ\n",
+      "wordMeanings": "jñāna—knowledge; vijñāna—realized knowledge, wisdom from within; tṛipta ātmā—one fully satisfied; kūṭa-sthaḥ—undisturbed; vijita-indriyaḥ—one who has conquered the senses; yuktaḥ—one who is in constant communion with the Supreme; iti—thus; uchyate—is said; yogī—a yogi; sama—looks equally; loṣhṭra—pebbles; aśhma—stone; kāñchanaḥ—gold\n",
+      "meaning": "The yogin whose mind is content with knowledge of the self and also with knowledge of the difference between the self and Prakrti, who is established in the self, whose senses are subdued, and to whom earth, stone, and gold all seem alike, is called integrated."
+    },
+    {
+      "id": 242,
+      "verseNumber": 9,
+      "text": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते।।6.9।।\n ",
+      "transliteration": "suhṛin-mitrāryudāsīna-madhyastha-dveṣhya-bandhuṣhu\nsādhuṣhvapi cha pāpeṣhu sama-buddhir viśhiṣhyate\n",
+      "wordMeanings": "su-hṛit—toward the well-wishers; mitra—friends; ari—enemies; udāsīna—neutral persons; madhya-stha—mediators; dveṣhya—the envious; bandhuṣhu—relatives; sādhuṣhu—pious; api—as well as; cha—and; pāpeṣhu—the sinners; sama-buddhiḥ—of impartial intellect; viśhiṣhyate—is distinguished\n",
+      "meaning": "He who regards with an equal eye well-wishers, friends, foes, the indifferent, neutrals, the hateful, the relations, and even the good and the sinful—he excels."
+    },
+    {
+      "id": 243,
+      "verseNumber": 10,
+      "text": "योगी युञ्जीत सततमात्मानं रहसि स्थितः।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः।।6.10।।\n ",
+      "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ\nekākī yata-chittātmā nirāśhīr aparigrahaḥ\n",
+      "wordMeanings": "yogī—a yogi; yuñjīta—should remain engaged in meditation; satatam—constantly; ātmānam—self; rahasi—in seclusion; sthitaḥ—remaining; ekākī—alone; yata-chitta-ātmā—with a controlled mind and body; nirāśhīḥ—free from desires; aparigrahaḥ—free from desires for possessions for enjoyment\n",
+      "meaning": "The yogin should constantly fix his mind on yoga, remaining in a solitary place all alone, controlling his thoughts and mind, free from desire and a sense of possession."
+    },
+    {
+      "id": 244,
+      "verseNumber": 11,
+      "text": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः।\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्।।6.11।।\n ",
+      "transliteration": "śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ\nnātyuchchhritaṁ nāti-nīchaṁ chailājina-kuśhottaram\n",
+      "wordMeanings": "śhuchau—in a clean; deśhe—place; pratiṣhṭhāpya—having established; sthiram—steadfast; āsanam—seat; ātmanaḥ—his own; na—not; ati—too; uchchhritam—high; na—not; ati—too; nīcham—low; chaila—cloth; ajina—a deerskin; kuśha—kuśh grass; uttaram—one over the other\n",
+      "meaning": "Having established for himself, in a clean spot, a firm seat that is neither too high nor too low, and covering it with cloth, deer-skin, and Kusa grass in reverse order—"
+    },
+    {
+      "id": 245,
+      "verseNumber": 12,
+      "text": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः।\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये।।6.12।।\n ",
+      "transliteration": "tatraikāgraṁ manaḥ kṛitvā yata-chittendriya-kriyaḥ\nupaviśhyāsane yuñjyād yogam ātma-viśhuddhaye\n",
+      "wordMeanings": "tatra—there; eka-agram—one-pointed; manaḥ—mind; kṛitvā—having made; yata-chitta—controlling the mind; indriya—senses; kriyaḥ—activities; upaviśhya—being seated; āsane—on the seat; yuñjyāt yogam—should strive to practice yog; ātma viśhuddhaye—for purification of the mind; \n",
+      "meaning": "Sitting on the seat, with a concentrated mind, controlling the mind and senses, one should practice Yoga for the purification of the self."
+    },
+    {
+      "id": 246,
+      "verseNumber": 13,
+      "text": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः।\nसंप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्।।6.13।।\n ",
+      "transliteration": "samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ\nsamprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan\n",
+      "wordMeanings": "samam—straight; kāya—body; śhiraḥ—head; grīvam—neck; dhārayan—holding; achalam—unmoving; sthiraḥ—still; samprekṣhya—gazing; nāsika-agram—at the tip of the nose; svam—own; diśhaḥ—directions; cha—and; anavalokayan—not looking\n",
+      "meaning": "Holding the trunk, head, and neck erect, motionless and steady, gazing at the tip of the nose and not looking in any direction;"
+    },
+    {
+      "id": 247,
+      "verseNumber": 14,
+      "text": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः।\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः।।6.14।।\n ",
+      "transliteration": "praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ\nmanaḥ sanyamya mach-chitto yukta āsīta mat-paraḥ\n",
+      "wordMeanings": "praśhānta—serene; ātmā—mind; vigata-bhīḥ—fearless; brahmachāri-vrate—in the vow of celibacy; sthitaḥ—situated; manaḥ—mind; sanyamya—having controlled; mat-chittaḥ—meditate on me (Shree Krishna); yuktaḥ—engaged; āsīta—should sit; mat-paraḥ—having me as the supreme goal\n",
+      "meaning": "Serene and fearless, firm in their vow of celibacy, controlling their minds and fixing their thoughts on Me, they should sit in Yoga, intent on Me."
+    },
+    {
+      "id": 248,
+      "verseNumber": 15,
+      "text": "युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति।।6.15।।\n ",
+      "transliteration": "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ\nśhantiṁ nirvāṇa-paramāṁ mat-sansthām adhigachchhati\n",
+      "wordMeanings": "yuñjan—keeping the mind absorbed in God; evam—thus; sadā—constantly; ātmānam—the mind; yogī—a yogi; niyata-mānasaḥ—one with a disciplined mind; śhāntim—peace; nirvāṇa—liberation from the material bondage; paramām—supreme; mat-sansthām—abides in me; adhigachchhati—attains\n",
+      "meaning": "Applying his mind in this way, the Yogin of controlled mind, ever attains the peace which is the summit of beatitude and which abides in Me."
+    },
+    {
+      "id": 249,
+      "verseNumber": 16,
+      "text": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।6.16।।\n ",
+      "transliteration": "nātyaśhnatastu yogo ’sti na chaikāntam anaśhnataḥ\nna chāti-svapna-śhīlasya jāgrato naiva chārjuna\n",
+      "wordMeanings": "na—not; ati—too much; aśhnataḥ—of one who eats; tu—however; yogaḥ—Yog; asti—there is; na—not; cha—and; ekāntam—at all; anaśhnataḥ—abstaining from eating; na—not; cha—and; ati—too much; svapna-śhīlasya—of one who sleeps; jāgrataḥ—of one who does not sleep enough; na—not; eva—certainly; cha—and; arjuna—Arjun\n",
+      "meaning": "Yoga is not for him who overeats, nor for him who fasts excessively; not for him, O Arjuna, who sleeps too much, nor for him who stays awake too long."
+    },
+    {
+      "id": 250,
+      "verseNumber": 17,
+      "text": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।6.17।।\n ",
+      "transliteration": "yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu\nyukta-svapnāvabodhasya yogo bhavati duḥkha-hā\n",
+      "wordMeanings": "yukta—moderate; āhāra—eating; vihārasya—recreation; yukta cheṣhṭasya karmasu—balanced in work; yukta—regulated; svapna-avabodhasya—sleep and wakefulness; yogaḥ—Yog; bhavati—becomes; duḥkha-hā—the slayer of sorrows\n",
+      "meaning": "Yoga becomes the destroyer of sorrows for those who are temperate in food and recreation, temperate in their actions, and temperate in their sleep and wakefulness."
+    },
+    {
+      "id": 251,
+      "verseNumber": 18,
+      "text": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते।\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा।।6.18।।\n ",
+      "transliteration": "yadā viniyataṁ chittam ātmanyevāvatiṣhṭhate\nniḥspṛihaḥ sarva-kāmebhyo yukta ityuchyate tadā\n",
+      "wordMeanings": "yadā—when; viniyatam—fully controlled; chittam—the mind; ātmani—of the self; eva—certainly; avatiṣhṭhate—stays; nispṛihaḥ—free from cravings: sarva; kāmebhyaḥ—for yearning of the senses; yuktaḥ—situated in perfect Yog; iti—thus; uchyate—is said; tadā—then\n",
+      "meaning": "When the subdued mind rests solely on the Self, then, free from all yearning for objects of desire, one is said to be fit for Yoga."
+    },
+    {
+      "id": 252,
+      "verseNumber": 19,
+      "text": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः।।6.19।।\n ",
+      "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛitā\nyogino yata-chittasya yuñjato yogam ātmanaḥ\n",
+      "wordMeanings": "yathā—as; dīpaḥ—a lamp; nivāta-sthaḥ—in a windless place; na—does not; iṅgate—flickers; sā—this; upamā—analogy; smṛitā—is considered; yoginaḥ—of a yogi; yata-chittasya—whose mind is disciplined; yuñjataḥ—steadily practicing; yogam—in meditation; ātmanaḥ—on the Supreme\n",
+      "meaning": "A lamp does not flicker in a windless place\"—that is the simile used for the tranquil mind of a yogi who practices yoga."
+    },
+    {
+      "id": 253,
+      "verseNumber": 20,
+      "text": "यत्रोपरमते चित्तं निरुद्धं योगसेवया।\nयत्र चैवात्मनाऽऽत्मानं पश्यन्नात्मनि तुष्यति।।6.20।।\n ",
+      "transliteration": "yatroparamate chittaṁ niruddhaṁ yoga-sevayā\nyatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati\n",
+      "wordMeanings": "yatra—when; uparamate—rejoice inner joy; chittam—the mind; niruddham—restrained; yoga-sevayā—by the practice of yog; yatra—when; cha—and; eva—certainly; ātmanā—through the purified mind; ātmānam—the soul; paśhyan—behold; ātmani—in the self; tuṣhyati—is satisfied\n",
+      "meaning": "Where the mind, controlled through the practice of Yoga, rests, and where one sees the Self by the Self and is delighted by the Self alone."
+    },
+    {
+      "id": 254,
+      "verseNumber": 21,
+      "text": "सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्।\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः।।6.21।।\n ",
+      "transliteration": "sukham ātyantikaṁ yat tad buddhi-grāhyam atīndriyam\nvetti yatra na chaivāyaṁ sthitaśh chalati tattvataḥ\n",
+      "wordMeanings": "sukham—happiness; ātyantikam—limitless; yat—which; tat—that; buddhi—by intellect; grāhyam—grasp; atīndriyam—transcending the senses; vetti—knows; yatra—wherein; na—never; cha—and; eva—certainly; ayam—he; sthitaḥ—situated; chalati—deviates; tattvataḥ—from the Eternal Truth\n",
+      "meaning": "Where one knows that infinite happiness which can be grasped by the intellect but is beyond the reach of the senses, and is established in that condition, one does not swerve from it."
+    },
+    {
+      "id": 255,
+      "verseNumber": 22,
+      "text": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते।।6.22।।\n ",
+      "transliteration": "yaṁ labdhvā chāparaṁ lābhaṁ manyate nādhikaṁ tataḥ\nyasmin sthito na duḥkhena guruṇāpi vichālyate\n",
+      "wordMeanings": "yam—which; labdhvā—having gained; cha—and; aparam—any other; lābham—gain; manyate—considers; na—not; adhikam—greater; tataḥ—than that; yasmin—in which; sthitaḥ—being situated; na—never; duḥkhena—by sorrow; guruṇā—(by) the greatest; api—even; vichālyate—is shaken\n",
+      "meaning": "Having gained it, one holds that there is no greater gain; being established in it, one is not moved even by the heaviest sorrow."
+    },
+    {
+      "id": 256,
+      "verseNumber": 23,
+      "text": "तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम्।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा।।6.23।।\n ",
+      "transliteration": "taṁ vidyād duḥkha-sanyoga-viyogaṁ yogasaṅjñitam\nsa niśhchayena yoktavyo yogo ’nirviṇṇa-chetasā\n",
+      "wordMeanings": "tam—that; vidyāt—you should know; duḥkha-sanyoga-viyogam—state of severance from union with misery; yoga-saṁjñitam—is known as yog; saḥ—that; niśhchayena—resolutely; yoktavyaḥ—should be practiced; yogaḥ—yog; anirviṇṇa-chetasā—with an undeviating mind\n",
+      "meaning": "Know this deliverance from association with misery to be Yoga. This Yoga must be practiced with determination and with a mind free from despondency."
+    },
+    {
+      "id": 257,
+      "verseNumber": 24,
+      "text": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः।।6.24।।\n ",
+      "transliteration": "saṅkalpa-prabhavān kāmāns tyaktvā sarvān aśheṣhataḥ\nmanasaivendriya-grāmaṁ viniyamya samantataḥ\n",
+      "wordMeanings": "saṅkalpa—a resolve; prabhavān—born of; kāmān—desires; tyaktvā—having abandoned; sarvān—all; aśheṣhataḥ—completely; manasā—through the mind; eva—certainly; indriya-grāmam—the group of senses; viniyamya—restraining; samantataḥ—from all sides;\n",
+      "meaning": "Renouncing entirely all desires born of volition and restraining the mind from all the senses on all sides,"
+    },
+    {
+      "id": 258,
+      "verseNumber": 25,
+      "text": "शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया।\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्।।6.25।।\n ",
+      "transliteration": "śhanaiḥ śhanair uparamed buddhyā dhṛiti-gṛihītayā\nātma-sansthaṁ manaḥ kṛitvā na kiñchid api chintayet\n",
+      "wordMeanings": "śhanaiḥ—gradually; śhanaiḥ—gradually; uparamet—attain peace; buddhyā—by intellect; dhṛiti-gṛihītayā—achieved through determination of resolve that is in accordance with scriptures; ātma-sanstham—fixed in God; manaḥ—mind; kṛitvā—having made; na—not; kiñchit—anything; api—even; chintayet—should think of\n",
+      "meaning": "Little by little, one should withdraw oneself from objects other than the self, with the help of the intellect held by firm resolution; and then one should think of nothing else, having fixed the mind upon the Self."
+    },
+    {
+      "id": 259,
+      "verseNumber": 26,
+      "text": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत्।।6.26।।\n ",
+      "transliteration": "yato yato niśhcharati manaśh chañchalam asthiram\ntatas tato niyamyaitad ātmanyeva vaśhaṁ nayet\n",
+      "wordMeanings": "yataḥ yataḥ—whenever and wherever; niśhcharati—wanders; manaḥ—the mind; chañchalam—restless; asthiram—unsteady; tataḥ tataḥ—from there; niyamya—having restrained; etat—this; ātmani—on God; eva—certainly; vaśham—control; nayet—should bring\n",
+      "meaning": "Wherever the fickle and unsteady mind wanders, one should subdue it and then bring it back under the control of the self alone."
+    },
+    {
+      "id": 260,
+      "verseNumber": 27,
+      "text": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम्।।6.27।।\n ",
+      "transliteration": "praśhānta-manasaṁ hyenaṁ yoginaṁ sukham uttamam\nupaiti śhānta-rajasaṁ brahma-bhūtam akalmaṣham\n",
+      "wordMeanings": "praśhānta—peaceful; manasam—mind; hi—certainly; enam—this; yoginam—yogi; sukham uttamam—the highest bliss; upaiti—attains; śhānta-rajasam—whose passions are subdued; brahma-bhūtam—endowed with God-realization; akalmaṣham—without sin\n",
+      "meaning": "For supreme happiness comes to the Yogin whose mind is at peace, who is free from evil, from whom Rajas has departed, and who has become the Brahman."
+    },
+    {
+      "id": 261,
+      "verseNumber": 28,
+      "text": "युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः।\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते।।6.28।।\n ",
+      "transliteration": "yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣhaḥ\nsukhena brahma-sansparśham atyantaṁ sukham aśhnute\n",
+      "wordMeanings": "yuñjan—uniting (the self with God); evam—thus; sadā—always; ātmānam—the self; yogī—a yogi; vigata—freed from; kalmaṣhaḥ—sins; sukhena—easily; brahma-sansparśham—constantly in touch with the Supreme; atyantam—the highest; sukham—bliss; aśhnute—attains\n",
+      "meaning": "Thus, devoting himself to the Yoga of the Self, freed from impurities, the yogin easily attains the supreme bliss of contact with the Brahman."
+    },
+    {
+      "id": 262,
+      "verseNumber": 29,
+      "text": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः।।6.29।।\n ",
+      "transliteration": "sarva-bhūta-stham ātmānaṁ sarva-bhūtāni chātmani\nīkṣhate yoga-yuktātmā sarvatra sama-darśhanaḥ\n",
+      "wordMeanings": "sarva-bhūta-stham—situated in all living beings; ātmānam—Supreme Soul; sarva—all; bhūtāni—living beings; cha—and; ātmani—in God; īkṣhate—sees; yoga-yukta-ātmā—one united in consciousness with God; sarvatra—everywhere; sama-darśhanaḥ—equal vision\n",
+      "meaning": "He whose mind is fixed in Yoga sees reality everywhere; he sees his Self as abiding in all beings and all beings in his Self."
+    },
+    {
+      "id": 263,
+      "verseNumber": 30,
+      "text": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति।।6.30।।\n ",
+      "transliteration": "yo māṁ paśhyati sarvatra sarvaṁ cha mayi paśhyati\ntasyāhaṁ na praṇaśhyāmi sa cha me na praṇaśhyati\n",
+      "wordMeanings": "yaḥ—who; mām—me; paśhyati—see; sarvatra—everywhere; sarvam—everything; cha—and; mayi—in me; paśhyati—see; tasya—for him; aham—I; na—not; praṇaśhyāmi—lost; saḥ—that person; cha—and; me—to me; na—nor; praṇaśhyati—lost\n",
+      "meaning": "To him who sees Me in every self and every self in Me—I am not lost to him, nor is he lost to Me."
+    },
+    {
+      "id": 264,
+      "verseNumber": 31,
+      "text": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते।।6.31।।\n ",
+      "transliteration": "sarva-bhūta-sthitaṁ yo māṁ bhajatyekatvam āsthitaḥ\nsarvathā vartamāno ’pi sa yogī mayi vartate\n",
+      "wordMeanings": "sarva-bhūta-sthitam—situated in all beings; yaḥ—who; mām—me; bhajati—worships; ekatvam—in unity; āsthitaḥ—established; sarvathā—in all kinds of; varta-mānaḥ—remain; api—although; saḥ—he; yogī—a yogi; mayi—in me; vartate—dwells\n",
+      "meaning": "The yogi who, fixed in oneness, worships Me dwelling in all beings—he abides in Me, no matter how he may live."
+    },
+    {
+      "id": 265,
+      "verseNumber": 32,
+      "text": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।\nसुखं वा यदि वा दुःखं सः योगी परमो मतः।।6.32।।\n ",
+      "transliteration": "ātmaupamyena sarvatra samaṁ paśhyati yo ’rjuna\nsukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ\n",
+      "wordMeanings": "ātma-aupamyena—similar to oneself; sarvatra—everywhere; samam—equally; paśhyati—see; yaḥ—who; arjuna—Arjun; sukham—joy; vā—or; yadi—if; vā—or; duḥkham—sorrow; saḥ—such; yogī—a yogi; paramaḥ—highest; mataḥ—is considered\n",
+      "meaning": "He who, due to the similarity of selves everywhere, sees pleasure or pain as the same everywhere—that yogi, O Arjuna, is considered the closest."
+    },
+    {
+      "id": 266,
+      "verseNumber": 33,
+      "text": "अर्जुन उवाच\nयोऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन।\nएतस्याहं न पश्यामि चञ्चलत्वात् स्थितिं स्थिराम्।।6.33।।\n ",
+      "transliteration": "arjuna uvācha\nyo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana\netasyāhaṁ na paśhyāmi chañchalatvāt sthitiṁ sthirām\n",
+      "wordMeanings": "arjunaḥ uvācha—Arjun said; yaḥ—which; ayam—this; yogaḥ—system of Yog; tvayā—by you; proktaḥ—described; sāmyena—by equanimity; madhu-sūdana—Shree Krishna, the killer of the demon named Madhu; etasya—of this; aham—I; na—do not; paśhyāmi—see; chañchalatvāt—due to restlessness; sthitim—situation; sthirām—steady\n",
+      "meaning": "Arjuna said, \"O Krsna, this Yoga of reality, which You have declared, I do not see how it can be steady due to the fickleness of the mind.\""
+    },
+    {
+      "id": 267,
+      "verseNumber": 34,
+      "text": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्।।6.34।।\n ",
+      "transliteration": "chañchalaṁ hi manaḥ kṛiṣhṇa pramāthi balavad dṛiḍham\ntasyāhaṁ nigrahaṁ manye vāyor iva su-duṣhkaram\n",
+      "wordMeanings": "chañchalam—restless; hi—certainly; manaḥ—mind; kṛiṣhṇa—Shree Krishna; pramāthi—turbulent; bala-vat—strong; dṛiḍham—obstinate; tasya—its; aham—I; nigraham—control; manye—think; vāyoḥ—of the wind; iva—like; su-duṣhkaram—difficult to perform\n",
+      "meaning": "For the mind is fickle, O Krsna, impetuous, powerful, and stubborn; I think that restraining it is as difficult as restraining the wind."
+    },
+    {
+      "id": 268,
+      "verseNumber": 35,
+      "text": "श्री भगवानुवाच\nअसंशयं महाबाहो मनो दुर्निग्रहं चलं।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।6.35।।\n ",
+      "transliteration": "śhrī bhagavān uvācha\nasanśhayaṁ mahā-bāho mano durnigrahaṁ chalam\nabhyāsena tu kaunteya vairāgyeṇa cha gṛihyate\n",
+      "wordMeanings": "śhrī-bhagavān uvācha—Lord Krishna said; asanśhayam—undoubtedly; mahā-bāho—mighty-armed one; manaḥ—the mind; durnigraham—difficult to restrain; chalam—restless; abhyāsena—by practice; tu—but; kaunteya—Arjun, the son of Kunti; vairāgyeṇa—by detachment; cha—and; gṛihyate—can be controlled\n",
+      "meaning": "The Lord said, \"The mind is indeed hard to subdue and fickle, O mighty-armed one, but, O son of Kunti, it can be brought under control through practice and the exercise of dispassion.\""
+    },
+    {
+      "id": 269,
+      "verseNumber": 36,
+      "text": "असंयतात्मना योगो दुष्प्राप इति मे मतिः।\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः।।6.36।।\n ",
+      "transliteration": "asaṅyatātmanā yogo duṣhprāpa iti me matiḥ\nvaśhyātmanā tu yatatā śhakyo ’vāptum upāyataḥ\n",
+      "wordMeanings": "asanyata-ātmanā—one whose mind is unbridled; yogaḥ—Yog; duṣhprāpaḥ—difficult to attain; iti—thus; me—my; matiḥ—opinion; vaśhya-ātmanā—by one whose mind is controlled; tu—but; yatatā—one who strives; śhakyaḥ—possible; avāptum—to achieve; upāyataḥ—by right means\n",
+      "meaning": "In my opinion, Yoga is hard to attain by a person of an unrestrained mind; however, it can be attained through the right means by one who strives for it and has a subdued mind."
+    },
+    {
+      "id": 270,
+      "verseNumber": 37,
+      "text": "अर्जुन उवाच\nअयतिः श्रद्धयोपेतो योगाच्चलितमानसः।\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति।।6.37।।\n ",
+      "transliteration": "arjuna uvācha\nayatiḥ śhraddhayopeto yogāch chalita-mānasaḥ\naprāpya yoga-sansiddhiṁ kāṅ gatiṁ kṛiṣhṇa gachchhati\n",
+      "wordMeanings": "arjunaḥ uvācha—Arjun said; ayatiḥ—lax; śhraddhayā—with faith; upetaḥ—possessed; yogāt—from Yog; chalita-mānasaḥ—whose mind becomes deviated; aprāpya—failing to attain; yoga-sansiddhim—the highest perfection in yog; kām—which; gatim—destination; kṛiṣhṇa—Shree Krishna; gachchhati—goes\n",
+      "meaning": "Arjuna said, \"If a person who is possessed of faith but has put in only inadequate effort finds his mind wandering away from Yoga, and then fails to attain perfection—what way does he go, O Krishna?\""
+    },
+    {
+      "id": 271,
+      "verseNumber": 38,
+      "text": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति।\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि।।6.38।।\n ",
+      "transliteration": "kachchin nobhaya-vibhraṣhṭaśh chhinnābhram iva naśhyati\napratiṣhṭho mahā-bāho vimūḍho brahmaṇaḥ pathi\n",
+      "wordMeanings": "kachchit—whether; na—not; ubhaya—both; vibhraṣhṭaḥ—deviated from; chhinna—broken; abhram—cloud; iva—like; naśhyati—perishes; apratiṣhṭhaḥ—without any support; mahā-bāho—mighty-armed Krishna; vimūḍhaḥ—bewildered; brahmaṇaḥ—of God-realization; pathi—one on the path\n",
+      "meaning": "Without any support, confused in the path leading to the Brahman, and thus having fallen from both, does he not perish, O mighty-armed one, like a rent cloud?"
+    },
+    {
+      "id": 272,
+      "verseNumber": 39,
+      "text": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः।\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते।।6.39।।\n ",
+      "transliteration": "etan me sanśhayaṁ kṛiṣhṇa chhettum arhasyaśheṣhataḥ\ntvad-anyaḥ sanśhayasyāsya chhettā na hyupapadyate\n",
+      "wordMeanings": "etat—this; me—my; sanśhayam—doubt; kṛiṣhṇa—Krishna; chhettum—to dispel; arhasi—you can; aśheṣhataḥ—completely; tvat—than you; anyaḥ—other; sanśhayasya—of doubt; asya—this; chhettā—a dispeller; na—never; hi—certainly; upapadyate—is fit\n",
+      "meaning": "O Krsna, you should altogether remove this doubt of mine, for there is no other remover of this doubt than you."
+    },
+    {
+      "id": 273,
+      "verseNumber": 40,
+      "text": "श्री भगवानुवाच\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते।\nनहि कल्याणकृत्कश्िचद्दुर्गतिं तात गच्छति।।6.40।।\n ",
+      "transliteration": "śhrī bhagavān uvācha\npārtha naiveha nāmutra vināśhas tasya vidyate\nna hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati\n",
+      "wordMeanings": "śhrī-bhagavān uvācha—the Supreme Lord said; pārtha—Arjun, the son of Pritha; na eva—never; iha—in this world; na—never; amutra—in the next world; vināśhaḥ—destruction; tasya—his; vidyate—exists; na—never; hi—certainly; kalyāṇa-kṛit—one who strives for God-realization; kaśhchit—anyone; durgatim—evil destination; tāta—my friend; gachchhati—goes\n",
+      "meaning": "The Lord said, \"Neither here in this world nor there in the next is there destruction for him. For no one who does good ever comes to an evil end.\""
+    },
+    {
+      "id": 274,
+      "verseNumber": 41,
+      "text": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः।\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते।।6.41।।\n ",
+      "transliteration": "prāpya puṇya-kṛitāṁ lokān uṣhitvā śhāśhvatīḥ samāḥ\nśhuchīnāṁ śhrīmatāṁ gehe yoga-bhraṣhṭo’bhijāyate\n",
+      "wordMeanings": "prāpya—attain; puṇya-kṛitām—of the virtuous; lokān—abodes; uṣhitvā—after dwelling; śhāśhvatīḥ—many; samāḥ—ages; śhuchīnām—of the pious; śhrī-matām—of the prosperous; gehe—in the house; yoga-bhraṣhṭaḥ—the unsuccessful yogis; abhijāyate—take birth; \n",
+      "meaning": "He who has fallen away from Yoga is born again in the house of the pure and prosperous, having attained to the worlds of doers of good deeds and dwelled there for many long years."
+    },
+    {
+      "id": 275,
+      "verseNumber": 42,
+      "text": "अथवा योगिनामेव कुले भवति धीमताम्।\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम्।।6.42।।\n ",
+      "transliteration": "atha vā yoginām eva kule bhavati dhīmatām\netad dhi durlabhataraṁ loke janma yad īdṛiśham\n",
+      "wordMeanings": "atha vā—else; yoginām—of those endowed with divine wisdom; eva—certainly; kule—in the family; bhavati—take birth; dhī-matām—of the wise; etat—this; hi—certainly; durlabha-taram—very rare; loke—in this world; janma—birth; yat—which; īdṛiśham—like this\n",
+      "meaning": "Or he is born into a family of wise yogis. But such a birth in this world is rare."
+    },
+    {
+      "id": 276,
+      "verseNumber": 43,
+      "text": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन।।6.43।।\n ",
+      "transliteration": "tatra taṁ buddhi-sanyogaṁ labhate paurva-dehikam\nyatate cha tato bhūyaḥ sansiddhau kuru-nandana\n",
+      "wordMeanings": "tatra—there; tam—that; buddhi-sanyogam—reawaken their wisdom; labhate—obtains; paurva-dehikam—from the previous lives; yatate—strives; cha—and; tataḥ—thereafter; bhūyaḥ—again; sansiddhau—for perfection; kuru-nandana—Arjun, descendant of the Kurus\n",
+      "meaning": "There, O Arjuna, he regains the disposition of mind that he had in his former body, and from there he strives even more for success in Yoga."
+    },
+    {
+      "id": 277,
+      "verseNumber": 44,
+      "text": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः।\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते।।6.44।।\n ",
+      "transliteration": "pūrvābhyāsena tenaiva hriyate hyavaśho ’pi saḥ\njijñāsur api yogasya śhabda-brahmātivartate\n",
+      "wordMeanings": "pūrva—past; abhyāsena—discipline; tena—by that; eva—certainly; hriyate—is attracted; hi—surely; avaśhaḥ—helplessly; api—although; saḥ—that person; jijñāsuḥ—inquisitive; api—even; yogasya—about yog; śhabda-brahma—fruitive portion of the Vedas; ativartate—transcends\n",
+      "meaning": "By the power of his earlier practice, he is carried forward even against his will. Even though he is an enquirer about Yoga, he transcends the Sabda-Brahman, i.e., Prakṛti or matter."
+    },
+    {
+      "id": 278,
+      "verseNumber": 45,
+      "text": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम्।।6.45।।\n ",
+      "transliteration": "prayatnād yatamānas tu yogī sanśhuddha-kilbiṣhaḥ\naneka-janma-sansiddhas tato yāti parāṁ gatim\n",
+      "wordMeanings": "prayatnāt—with great effort; yatamānaḥ—endeavoring; tu—and; yogī—a yogi; sanśhuddha—purified; kilbiṣhaḥ—from material desires; aneka—after many, many; janma—births; sansiddhaḥ—attain perfection; tataḥ—then; yāti—attains; parām—the highest; gatim—path\n",
+      "meaning": "But the yogi, striving earnestly, cleansed of all his stains and perfected through many births, reaches the supreme state."
+    },
+    {
+      "id": 279,
+      "verseNumber": 46,
+      "text": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः।\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन।।6.46।।\n ",
+      "transliteration": "tapasvibhyo ’dhiko yogī\njñānibhyo ’pi mato ’dhikaḥ\nkarmibhyaśh chādhiko yogī\ntasmād yogī bhavārjuna\n",
+      "wordMeanings": "tapasvibhyaḥ—than the ascetics; adhikaḥ—superior; yogī—a yogi; jñānibhyaḥ—than the persons of learning; api—even; mataḥ—considered; adhikaḥ—superior; karmibhyaḥ—than the ritualistic performers; cha—and; adhikaḥ—superior; yogī—a yogi; tasmāt—therefore; yogī—a yogi; bhava—just become; arjuna—Arjun\n",
+      "meaning": "Greater than the ascetics, greater than those who possess knowledge, greater than the ritualists is the Yogin. Therefore, O Arjuna, become a Yogin."
+    },
+    {
+      "id": 280,
+      "verseNumber": 47,
+      "text": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना।\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः।।6.47।।\n ",
+      "transliteration": "yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā\nśhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ\n",
+      "wordMeanings": "yoginām—of all yogis; api—however; sarveṣhām—all types of; mat-gatena—absorbed in me (God); antaḥ—inner; ātmanā—with the mind; śhraddhā-vān—with great faith; bhajate—engage in devotion; yaḥ—who; mām—to me; saḥ—he; me—by me; yukta-tamaḥ—the highest yogi; mataḥ—is considered\n",
+      "meaning": "He who, with faith, worships Me, and whose innermost self is fixed in Me, I consider him to be the greatest of the Yogins."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bhagavad Gita</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <aside class="sidebar" id="sidebar"></aside>
+
+      <main class="main-panel">
+        <section class="hero" id="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">Srimad Bhagavad Gita</p>
+            <h1 id="chapterTitle">Loading...</h1>
+            <p class="chapter-summary" id="chapterSummary"></p>
+            <div class="chapter-meta" id="chapterMeta"></div>
+          </div>
+          <div class="hero-art">
+            <img id="chapterImage" alt="Bhagavad Gita chapter artwork" />
+          </div>
+        </section>
+
+        <section class="control-bar">
+          <div class="verse-rail" id="verseNav"></div>
+          <div class="chapter-rail" id="chapterNav"></div>
+        </section>
+
+        <section class="player-card">
+          <div class="player-header">
+            <div>
+              <p class="eyebrow">Chapter Recitation</p>
+              <h2 id="audioTitle">Audio</h2>
+            </div>
+            <button class="ghost-button" id="ambienceToggle" type="button">Ambience Off</button>
+          </div>
+
+          <div class="audio-player">
+            <button class="play-button" id="playPause" type="button" aria-label="Play chapter audio">
+              <span class="flute-icon"></span>
+            </button>
+            <div class="audio-body">
+              <input id="seekBar" type="range" min="0" max="100" step="0.1" value="0" />
+              <div class="time-row">
+                <span id="currentTime">0:00</span>
+                <span id="duration">0:00</span>
+              </div>
+            </div>
+          </div>
+
+          <audio id="chapterAudio" preload="metadata"></audio>
+          <audio id="ambienceAudio" preload="metadata" loop src="assets/bg-full.mp3"></audio>
+        </section>
+
+        <article class="shloka-card">
+          <div class="verse-header">
+            <p class="eyebrow" id="verseLocation">Verse</p>
+            <div class="jump-actions">
+              <button id="prevVerse" type="button">Prev</button>
+              <button id="nextVerse" type="button">Next</button>
+            </div>
+          </div>
+
+          <div class="shloka-text" id="verseText"></div>
+          <div class="transliteration" id="transliteration"></div>
+          <div class="meaning-block">
+            <h3>Meaning</h3>
+            <p id="verseMeaning"></p>
+          </div>
+          <details class="word-meanings">
+            <summary>Word-by-word meaning</summary>
+            <p id="wordMeanings"></p>
+          </details>
+        </article>
+
+        <section class="jump-grid-wrap">
+          <div class="jump-grid-header">
+            <div>
+              <p class="eyebrow">Jump To Any Shloka</p>
+              <h2>Verse Navigator</h2>
+            </div>
+            <p id="jumpLabel"></p>
+          </div>
+          <div class="jump-grid" id="jumpGrid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

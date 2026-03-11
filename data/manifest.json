@@ -1,0 +1,168 @@
+{
+  "generatedAt": "2026-03-11T06:19:58.005Z",
+  "source": "https://github.com/gita/gita",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "nameTranslation": "Arjuna Visada Yoga",
+      "nameMeaning": "Arjuna's Dilemma",
+      "verseCount": 47,
+      "path": "data/chapter-01-arjuna-visada-yoga.json",
+      "image": "assets/images/gita-100.jpg",
+      "audio": "assets/Bhagavad-gita01.mp3"
+    },
+    {
+      "chapterNumber": 2,
+      "nameTranslation": "Sankhya Yoga",
+      "nameMeaning": "Transcendental Knowledge",
+      "verseCount": 72,
+      "path": "data/chapter-02-sankhya-yoga.json",
+      "image": "assets/images/gita-101.jpg",
+      "audio": "assets/Bhagavad-gita02.mp3"
+    },
+    {
+      "chapterNumber": 3,
+      "nameTranslation": "Karma Yoga",
+      "nameMeaning": "Path of Selfless Service",
+      "verseCount": 43,
+      "path": "data/chapter-03-karma-yoga.json",
+      "image": "assets/images/gita-102.jpg",
+      "audio": "assets/Bhagavad-gita03.mp3"
+    },
+    {
+      "chapterNumber": 4,
+      "nameTranslation": "Jnana Karma Sanyasa Yoga",
+      "nameMeaning": "Path of Knowledge and the Disciplines of Action",
+      "verseCount": 42,
+      "path": "data/chapter-04-jnana-karma-sanyasa-yoga.json",
+      "image": "assets/images/gita-103.jpg",
+      "audio": "assets/Bhagavad-gita04.mp3"
+    },
+    {
+      "chapterNumber": 5,
+      "nameTranslation": "Karma Sanyasa Yoga",
+      "nameMeaning": "Path of Renunciation",
+      "verseCount": 29,
+      "path": "data/chapter-05-karma-sanyasa-yoga.json",
+      "image": "assets/images/gita-104.jpg",
+      "audio": "assets/Bhagavad-gita05.mp3"
+    },
+    {
+      "chapterNumber": 6,
+      "nameTranslation": "Dhyana Yoga",
+      "nameMeaning": "Path of Meditation",
+      "verseCount": 47,
+      "path": "data/chapter-06-dhyana-yoga.json",
+      "image": "assets/images/gita-105.jpg",
+      "audio": "assets/Bhagavad-gita06.mp3"
+    },
+    {
+      "chapterNumber": 7,
+      "nameTranslation": "Gyaan Vigyana Yoga",
+      "nameMeaning": "Self-Knowledge and Enlightenment",
+      "verseCount": 30,
+      "path": "data/chapter-07-gyaan-vigyana-yoga.json",
+      "image": "assets/images/gita-106.jpg",
+      "audio": "assets/Bhagavad-gita07.mp3"
+    },
+    {
+      "chapterNumber": 8,
+      "nameTranslation": "Akshara Brahma Yoga",
+      "nameMeaning": "Path of the Eternal God",
+      "verseCount": 28,
+      "path": "data/chapter-08-akshara-brahma-yoga.json",
+      "image": "assets/images/gita-107.jpg",
+      "audio": "assets/Bhagavad-gita08.mp3"
+    },
+    {
+      "chapterNumber": 9,
+      "nameTranslation": "Raja Vidya Yoga",
+      "nameMeaning": "Yoga through the King of Sciences",
+      "verseCount": 34,
+      "path": "data/chapter-09-raja-vidya-yoga.json",
+      "image": "assets/images/gita-108.jpg",
+      "audio": "assets/Bhagavad-gita09.mp3"
+    },
+    {
+      "chapterNumber": 10,
+      "nameTranslation": "Vibhooti Yoga",
+      "nameMeaning": "Yoga through Appreciating the Infinite Opulences of God",
+      "verseCount": 42,
+      "path": "data/chapter-10-vibhooti-yoga.json",
+      "image": "assets/images/gita-109.jpg",
+      "audio": "assets/Bhagavad-gita10.mp3"
+    },
+    {
+      "chapterNumber": 11,
+      "nameTranslation": "Vishwaroopa Darshana Yoga",
+      "nameMeaning": "Yoga through Beholding the Cosmic Form of God",
+      "verseCount": 55,
+      "path": "data/chapter-11-vishwaroopa-darshana-yoga.json",
+      "image": "assets/images/gita-110.jpg",
+      "audio": "assets/Bhagavad-gita11.mp3"
+    },
+    {
+      "chapterNumber": 12,
+      "nameTranslation": "Bhakti Yoga",
+      "nameMeaning": "The Yoga of Devotion",
+      "verseCount": 20,
+      "path": "data/chapter-12-bhakti-yoga.json",
+      "image": "assets/images/gita-111.jpg",
+      "audio": "assets/Bhagavad-gita12.mp3"
+    },
+    {
+      "chapterNumber": 13,
+      "nameTranslation": "Ksetra Ksetrajna Vibhaaga Yoga",
+      "nameMeaning": "Yoga through Distinguishing the Field and the Knower of the Field",
+      "verseCount": 35,
+      "path": "data/chapter-13-ksetra-ksetrajna-vibhaaga-yoga.json",
+      "image": "assets/images/gita-112.jpg",
+      "audio": "assets/Bhagavad-gita13.mp3"
+    },
+    {
+      "chapterNumber": 14,
+      "nameTranslation": "Gunatraya Vibhaga Yoga",
+      "nameMeaning": "Yoga through Understanding the Three Modes of Material Nature",
+      "verseCount": 27,
+      "path": "data/chapter-14-gunatraya-vibhaga-yoga.json",
+      "image": "assets/images/gita-113.jpg",
+      "audio": "assets/Bhagavad-gita14.mp3"
+    },
+    {
+      "chapterNumber": 15,
+      "nameTranslation": "Purushottama Yoga",
+      "nameMeaning": "The Yoga of the Supreme Divine Personality",
+      "verseCount": 20,
+      "path": "data/chapter-15-purushottama-yoga.json",
+      "image": "assets/images/gita-114.jpg",
+      "audio": "assets/Bhagavad-gita15.mp3"
+    },
+    {
+      "chapterNumber": 16,
+      "nameTranslation": "Daivasura Sampad Vibhaga Yoga",
+      "nameMeaning": "Yoga through Discerning the Divine and Demoniac Natures",
+      "verseCount": 24,
+      "path": "data/chapter-16-daivasura-sampad-vibhaga-yoga.json",
+      "image": "assets/images/gita-116.jpg",
+      "audio": "assets/Bhagavad-gita16.mp3"
+    },
+    {
+      "chapterNumber": 17,
+      "nameTranslation": "Sraddhatraya Vibhaga Yoga",
+      "nameMeaning": "Yoga through Discerning the Three Divisions of Faith",
+      "verseCount": 28,
+      "path": "data/chapter-17-sraddhatraya-vibhaga-yoga.json",
+      "image": "assets/images/gita-117.jpg",
+      "audio": "assets/Bhagavad-gita17.mp3"
+    },
+    {
+      "chapterNumber": 18,
+      "nameTranslation": "Moksha Sanyaas Yoga",
+      "nameMeaning": "Yoga through the Perfection of Renunciation and Surrender",
+      "verseCount": 78,
+      "path": "data/chapter-18-moksha-sanyaas-yoga.json",
+      "image": "assets/images/gita-118.jpg",
+      "audio": "assets/Bhagavad-gita18.mp3"
+    }
+  ]
+}
